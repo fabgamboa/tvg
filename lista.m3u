@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="I2.10647.zap2it.com" tvg-name="NBC Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png" group-title="NBC",NBC HOUSTON TX
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/218852.m3u8
+#EXTINF:-1 tvg-id="I9.10667.zap2it.com" tvg-name="FOX Houston" tvg-logo="https://www.clasesdeperiodismo.com/wp-content/uploads/2017/06/foxnews.jpg" group-title="FOX NEWS",FOX HOUSTON TX
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/218952.m3u8
+#EXTINF:-1 tvg-id="I10.10835.zap2it.com" tvg-name="Univision Houston" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Houston-en-vivo-Online.png" group-title="ENTRETENIMIENTO",HOUSTON | UNIVISION
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/218023.m3u8
+#EXTINF:-1 tvg-id="I11.10496.zap2it.com" tvg-name="CBS Houston" tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Emblem.png" group-title="CBS (REGIONALES)",CBS HOUSTON TX
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/219036.m3u8
+#EXTINF:-1 tvg-id="I13.10731.zap2it.com" tvg-name="ABC Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/640px-ABC-2021-LOGO.svg.png" group-title="USA NEWS",ABC Houston
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/214725.m3u8
+#EXTINF:-1 tvg-id="I47.10725.zap2it.com" tvg-name="TELEMUNDO KTMD Houston" tvg-logo="https://pbs.twimg.com/profile_images/1470674715341725696/GM_KueVJ_400x400.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO KTMD GALVESTON
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/218224.m3u8
+#EXTINF:-1 tvg-id="I49.10719.zap2it.com" tvg-name="Ion" tvg-logo="http://myportal.live:8080/images/fd1b27efc5e556d243e2a88ee8a2e5d5.png" group-title="USA: CINEMA  ENTERTAINMENT",US: ION FHD
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/196107.m3u8
+#EXTINF:-1 tvg-id="I51.12700.zap2it.com" tvg-name="MeTV Houston" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.IXYoP4IgsMOrMY0C_4CnuwHaDt%26pid%3DApif=1ipt=7a95036c655e80a1c878ebfa4487c191f0df51dedc0d6159631f6c3197a0223cipo=images" group-title="ENTERTAINMENT",US: MeTV {KYAZ) Houston
+http://ingrid.ltd:25461/chtobon/5040803559/174545
+#EXTINF:-1 tvg-id="I112.11867.zap2it.com" tvg-name="TBS HD" tvg-logo="http://fanc.tmsimg.com/assets/s58515_ll_h3_ac.png" group-title="USA: CINEMA  ENTERTAINMENT",US: TBS HD
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/196057.m3u8
+#EXTINF:-1 tvg-id="I122.18332.zap2it.com" tvg-name="BBC America HD" tvg-logo="http://static.epgguide.net/icon/bbcamerica.us.png" group-title="USA NEWS",US: BBC America HD
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/195206.m3u8
+#EXTINF:-1 tvg-id="I124.11207.zap2it.com" tvg-name="Usa Network" tvg-logo="http://fanc.tmsimg.com/assets/s58452_ll_h3_ae.png" group-title="USA: CINEMA  ENTERTAINMENT",US: USA NETWORK
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/196214.m3u8
+#EXTINF:-1 tvg-id="I128.17927.zap2it.com" tvg-name="US: FXX HD" tvg-logo="http://fanc.tmsimg.com/assets/s66379_ll_h3_aa.png" group-title="USA: CINEMA  ENTERTAINMENT",US: FXX HD
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/195992.m3u8
+#EXTINF:-1 tvg-id="I129.14321.zap2it.com" tvg-name="US: FX HD" tvg-logo="http://fanc.tmsimg.com/assets/s73682_ll_h3_aa.png" group-title="USA: CINEMA  ENTERTAINMENT",US: FX HD
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/195989.m3u8
+#EXTINF:-1 tvg-id="I132.10035.zap2it.com" tvg-name="AE HD" tvg-logo="http://fanc.tmsimg.com/assets/s10035_h3_aa.png" group-title="USA: CINEMA  ENTERTAINMENT",US: AE HD
+http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/195972.m3u8
