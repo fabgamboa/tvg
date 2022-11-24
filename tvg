@@ -1,0 +1,2676 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20221124">
+<channel id="I2.10647.zap2it.com"><display-name>KPRC</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/10647/s10991_h3_aa.png" /></channel>
+<channel id="I9.10667.zap2it.com"><display-name>KRIV</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/10667/s10212_h3_aa.png" /></channel>
+<channel id="I10.10835.zap2it.com"><display-name>KXLN</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/10835/s11118_h3_aa.png" /></channel>
+<channel id="I11.10496.zap2it.com"><display-name>KHOU</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/10496/s10098_h3_aa.png" /></channel>
+<channel id="I13.10731.zap2it.com"><display-name>KTRK</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/10731/s10003_h3_aa.png" /></channel>
+<channel id="I47.10725.zap2it.com"><display-name>KTMD</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/10725/s10239_h3_aa.png" /></channel>
+<channel id="I49.10719.zap2it.com"><display-name>KPXB</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/10719/s18633_h3_aa.png" /></channel>
+<channel id="I51.12700.zap2it.com"><display-name>KYAZ</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/12700/s70436_h3_aa.png" /></channel>
+<channel id="I112.11867.zap2it.com"><display-name>TBS</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/11867/s11867_h3_aa.png" /></channel>
+<channel id="I122.18332.zap2it.com"><display-name>BBCA</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" /></channel>
+<channel id="I124.11207.zap2it.com"><display-name>USA</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/11207/s11207_h3_aa.png" /></channel>
+<channel id="I128.17927.zap2it.com"><display-name>FXX</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/17927/s17927_h3_aa.png" /></channel>
+<channel id="I129.14321.zap2it.com"><display-name>FX</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/14321/s14321_h3_aa.png" /></channel>
+<channel id="I132.10035.zap2it.com"><display-name>AETV</display-name><icon src="https://zap2it.tmsimg.com/h3/NowShowing/10035/s10035_h3_aa.png" /></channel>
+	<programme start="20221123210000 -0600" stop="20221123220000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Fire Country</title>
+		<sub-title lang="en">Where There&apos;s Smoke...</sub-title>
+		<desc lang="en">When the crew responds to a call in a remote forest, they come under fire by an outlaw protecting illegal marijuana crops.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23098417_e_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04313523&amp;tmsId=EP043135230003</url>
+		<episode-num system="common">S01E03</episode-num>
+		<episode-num system="dd_progid">EP04313523.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221123220000 -0600" stop="20221123223500 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221123223500 -0600" stop="20221123233700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Show With Stephen Colbert</title>
+		<sub-title lang="en">Jake Gyllenhaal; Elizabeth Debicki</sub-title>
+		<desc lang="en">Actor Jake Gyllenhaal; actress Elizabeth Debicki; special surprise guests.</desc>
+		<date>20221124</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">62</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10703384_b_v13_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01906276&amp;tmsId=EP019062761382</url>
+		<episode-num system="common">S08E41</episode-num>
+		<episode-num system="dd_progid">EP01906276.1382</episode-num>
+		<episode-num system="xmltv_ns">7.40.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221123233700 -0600" stop="20221124003700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Late Show With James Corden</title>
+		<sub-title lang="en">Linda Cardellini; Neal Brennan; Gianmarco Soresi</sub-title>
+		<desc lang="en">Actress Linda Cardellini; comic Neal Brennan; comic Gianmarco Soresi.</desc>
+		<date>20221124</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11060317_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01995293&amp;tmsId=EP019952931162</url>
+		<episode-num system="common">S08E38</episode-num>
+		<episode-num system="dd_progid">EP01995293.1162</episode-num>
+		<episode-num system="xmltv_ns">7.37.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221124003700 -0600" stop="20221124010700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">Chef Jenard&apos;s twist on turkey and his delicious side dish recipe for balsamic Brussels sprouts; drag queen Eureka O&apos;Hara (HBO Max&apos;s &quot;We&apos;re Here&quot;).</desc>
+		<date>20221124</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913983</url>
+		<episode-num system="dd_progid">EP02748291.3983</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221124010700 -0600" stop="20221124013700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221124013700 -0600" stop="20221124021200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124021200 -0600" stop="20221124024200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221124024200 -0600" stop="20221124031200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Relieve your foot pain with WalkFit!</title>
+		<desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18633047_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03580710&amp;tmsId=SH035807100000</url>
+		<episode-num system="dd_progid">SH03580710.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221124031200 -0600" stop="20221124040000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Overnight News</title>
+		<desc lang="en">National and international headlines from CBS News journalists all around the world, plus stories from the West Coast edition of the &quot;CBS Evening News With Norah O&apos;Donnell.&quot;</desc>
+		<category lang="en">News</category>
+		<length units="minutes">48</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12135609_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02269178&amp;tmsId=SH022691780000</url>
+		<episode-num system="dd_progid">SH02269178.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124040000 -0600" stop="20221124043000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Morning News</title>
+		<desc lang="en">News reports on current events.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185953_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019131&amp;tmsId=SH000191310000</url>
+		<episode-num system="dd_progid">SH00019131.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124043000 -0600" stop="20221124050000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Morning News</title>
+		<desc lang="en">News reports on current events.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185953_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019131&amp;tmsId=SH000191310000</url>
+		<episode-num system="dd_progid">SH00019131.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124050000 -0600" stop="20221124053000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Morning News</title>
+		<desc lang="en">News reports on current events.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185953_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019131&amp;tmsId=SH000191310000</url>
+		<episode-num system="dd_progid">SH00019131.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124053000 -0600" stop="20221124060000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Morning News</title>
+		<desc lang="en">News reports on current events.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185953_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019131&amp;tmsId=SH000191310000</url>
+		<episode-num system="dd_progid">SH00019131.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124060000 -0600" stop="20221124070000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 6A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367365_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160060&amp;tmsId=SH041600600000</url>
+		<episode-num system="dd_progid">SH04160060.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221124070000 -0600" stop="20221124080000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Mornings</title>
+		<desc lang="en">Phil Simms, sports analyst; Erik Davis, movie commentator.</desc>
+		<date>20221124</date>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20589677_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03989671&amp;tmsId=EP039896710318</url>
+		<episode-num system="dd_progid">EP03989671.0318</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124080000 -0600" stop="20221124090000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News Pre-Parade Coverage</title>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21030908_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04096462&amp;tmsId=SH040964620000</url>
+		<episode-num system="dd_progid">SH04096462.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124090000 -0600" stop="20221124100000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">73rd Annual Thanksgiving Day Parade</title>
+		<desc lang="en">The annual parade presented by HEB.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23264759_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04512170&amp;tmsId=SH045121700000</url>
+		<episode-num system="dd_progid">SH04512170.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124100000 -0600" stop="20221124110000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">73rd Annual Thanksgiving Day Parade</title>
+		<desc lang="en">The annual parade presented by HEB.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23264759_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04512170&amp;tmsId=SH045121700000</url>
+		<episode-num system="dd_progid">SH04512170.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124110000 -0600" stop="20221124113000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The NFL Today</title>
+		<desc lang="en">Featuring highlights, predictions and the latest news from across the league.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185928_b_v9_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00276900&amp;tmsId=SH002769000000</url>
+		<episode-num system="dd_progid">SH00276900.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124113000 -0600" stop="20221124150000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">NFL Football</title>
+		<sub-title lang="en">Buffalo Bills at Detroit Lions</sub-title>
+		<desc lang="en">The Bills plays the Lions. Buffalo defeated Cleveland 31-23 at Ford Field in Week 11 after a snowstorm forced the Bills to temporarily move into the home of the Lions. Detroit has won three straight following a 31-18 win against the New York Giants.</desc>
+		<date>20221124</date>
+		<category lang="en">Sports</category>
+		<length units="minutes">210</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22189345_tb2_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00003128&amp;tmsId=EP000031283486</url>
+		<episode-num system="dd_progid">EP00003128.3486</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124150000 -0600" stop="20221124153000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">A special episode highlights the best of DBL, including some of the most memorable in-studio guests, such as Jerry Springer, Marc Summers and Marilu Henner.</desc>
+		<date>20221124</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913977</url>
+		<episode-num system="dd_progid">EP02748291.3977</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221124153000 -0600" stop="20221124160000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">A special episode highlights the best of DBL, including some of the most memorable in-studio guests, such as Jerry Springer, Marc Summers and Marilu Henner.</desc>
+		<date>20221124</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913985</url>
+		<episode-num system="dd_progid">EP02748291.3985</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221124160000 -0600" stop="20221124170000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU Special: Juneteenth: 1865 to 2021</title>
+		<desc lang="en">A KHOU 11 News documentary special examines the history and the importance of the Juneteenth holiday. Hosted by KHOU anchors Mia Gradney and Len Cannon.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20001817_st_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03871185&amp;tmsId=SH038711850000</url>
+		<episode-num system="dd_progid">SH03871185.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124170000 -0600" stop="20221124173000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU Special: Picture Perfect</title>
+		<desc lang="en">The sights and sounds of some of the most beautiful places in the Houston area.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19242311_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03719779&amp;tmsId=SH037197790000</url>
+		<episode-num system="dd_progid">SH03719779.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124173000 -0600" stop="20221124180000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Evening News With Norah O&apos;Donnell</title>
+		<desc lang="en">A weeknight survey of major news stories, human-interest segments and interviews with newsmakers, anchored by Norah O&apos;Donnell.</desc>
+		<date>20221124</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17079977_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03258257&amp;tmsId=EP032582570879</url>
+		<episode-num system="dd_progid">EP03258257.0879</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124180000 -0600" stop="20221124183000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 6</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280635_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573287&amp;tmsId=SH015732870000</url>
+		<episode-num system="dd_progid">SH01573287.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124183000 -0600" stop="20221124190000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Wheel of Fortune</title>
+		<sub-title lang="en">College Week</sub-title>
+		<desc lang="en">In a classic game-show version of &quot;Hangman,&quot; contestants solve word puzzles for cash and prizes.</desc>
+		<date>20221125</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p184057_b_v13_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004762&amp;tmsId=EP000047624206</url>
+		<episode-num system="common">S40E54</episode-num>
+		<episode-num system="dd_progid">EP00004762.4206</episode-num>
+		<episode-num system="xmltv_ns">39.53.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221124190000 -0600" stop="20221124193100 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Young Sheldon</title>
+		<sub-title lang="en">A Suitcase Full of Cash and a Yellow Clown Car</sub-title>
+		<desc lang="en">Meemaw&apos;s gambling room becomes a success; Sheldon dips his toe in the stock market; Missy starts a business.</desc>
+		<length units="minutes">31</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21719425_e_v9_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02642239&amp;tmsId=EP026422390100</url>
+		<episode-num system="common">S05E16</episode-num>
+		<episode-num system="dd_progid">EP02642239.0100</episode-num>
+		<episode-num system="xmltv_ns">4.15.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221124193100 -0600" stop="20221124200100 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Ghosts</title>
+		<sub-title lang="en">D&amp;D</sub-title>
+		<desc lang="en">After Jay is kicked out of a Dungeons &amp; Dragons game with his city friends, Sam agrees to facilitate a new one between him and the ghosts; Isaac confronts his feelings for Nigel, a ghost from whom he&apos;s been keeping a gigantic secret.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20910057_e_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03874108&amp;tmsId=EP038741080011</url>
+		<episode-num system="common">S01E08</episode-num>
+		<episode-num system="dd_progid">EP03874108.0011</episode-num>
+		<episode-num system="xmltv_ns">0.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221124200100 -0600" stop="20221124210000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">So Help Me Todd</title>
+		<sub-title lang="en">Corduroy Briefs</sub-title>
+		<desc lang="en">Margaret and Todd work to bring justice to an Olympic athlete who lost his leg in a plane crash resulting from a defective aircraft.</desc>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23097829_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04313510&amp;tmsId=EP043135100004</url>
+		<episode-num system="common">S01E04</episode-num>
+		<episode-num system="dd_progid">EP04313510.0004</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221124210000 -0600" stop="20221124220000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Criminal Minds</title>
+		<sub-title lang="en">Just Getting Started</sub-title>
+		<desc lang="en">An elite squad of FBI profilers analyzes the country&apos;s most-twisted criminal minds, anticipating the perpetrators&apos; next moves before they can strike again.</desc>
+		<date>20221125</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185123_b_v13_xz.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00753791&amp;tmsId=EP007537910366</url>
+		<episode-num system="common">S16E01</episode-num>
+		<episode-num system="dd_progid">EP00753791.0366</episode-num>
+		<episode-num system="xmltv_ns">15.0.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221124220000 -0600" stop="20221124223500 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221124223500 -0600" stop="20221124233700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Show With Stephen Colbert</title>
+		<sub-title lang="en">Jon Stewart; LCD Soundsystem</sub-title>
+		<desc lang="en">TV host Jon Stewart; LCD Soundsystem performs.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">62</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23384327_e_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01906276&amp;tmsId=EP019062761377</url>
+		<episode-num system="common">S08E36</episode-num>
+		<episode-num system="dd_progid">EP01906276.1377</episode-num>
+		<episode-num system="xmltv_ns">7.35.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221124233700 -0600" stop="20221125003700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Late Show With James Corden</title>
+		<sub-title lang="en">Luke Evans; Dr. Phil; The Interrupters</sub-title>
+		<desc lang="en">Actor Luke Evans; TV personality Dr. Phil; The Interrupters perform.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22813918_e_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01995293&amp;tmsId=EP019952931121</url>
+		<episode-num system="common">S08E01</episode-num>
+		<episode-num system="dd_progid">EP01995293.1121</episode-num>
+		<episode-num system="xmltv_ns">7.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221125003700 -0600" stop="20221125010700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">A special episode highlights the best of DBL, including some of the most memorable in-studio guests, such as Jerry Springer, Marc Summers and Marilu Henner.</desc>
+		<date>20221124</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913985</url>
+		<episode-num system="dd_progid">EP02748291.3985</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221125010700 -0600" stop="20221125013700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221125013700 -0600" stop="20221125021200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125021200 -0600" stop="20221125031200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221125031200 -0600" stop="20221125040000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Overnight News</title>
+		<desc lang="en">National and international headlines from CBS News journalists all around the world, plus stories from the West Coast edition of the &quot;CBS Evening News With Norah O&apos;Donnell.&quot;</desc>
+		<category lang="en">News</category>
+		<length units="minutes">48</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12135609_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02269178&amp;tmsId=SH022691780000</url>
+		<episode-num system="dd_progid">SH02269178.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125040000 -0600" stop="20221125043000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Morning News</title>
+		<desc lang="en">News reports on current events.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185953_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019131&amp;tmsId=SH000191310000</url>
+		<episode-num system="dd_progid">SH00019131.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125043000 -0600" stop="20221125050000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News First Look</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367305_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160040&amp;tmsId=SH041600400000</url>
+		<episode-num system="dd_progid">SH04160040.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221125050000 -0600" stop="20221125060000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 5A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367349_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160054&amp;tmsId=SH041600540000</url>
+		<episode-num system="dd_progid">SH04160054.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221125060000 -0600" stop="20221125070000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 6A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367365_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160060&amp;tmsId=SH041600600000</url>
+		<episode-num system="dd_progid">SH04160060.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221125070000 -0600" stop="20221125090000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Mornings</title>
+		<desc lang="en">Jamie Carragher, sports analyst.</desc>
+		<date>20221125</date>
+		<category lang="en">News</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20589677_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03989671&amp;tmsId=EP039896710319</url>
+		<episode-num system="dd_progid">EP03989671.0319</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125090000 -0600" stop="20221125100000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Great Day Houston</title>
+		<desc lang="en">Food, fashion, fitness and fun with celebrity interviews by host Deborah Duncan.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p709577_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00815429&amp;tmsId=SH008154290000</url>
+		<episode-num system="dd_progid">SH00815429.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125100000 -0600" stop="20221125110000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Price Is Right</title>
+		<desc lang="en">Contestants bid for prizes then compete for fabulous showcases.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183911_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004372&amp;tmsId=EP000043722257</url>
+		<episode-num system="common">S51E13</episode-num>
+		<episode-num system="dd_progid">EP00004372.2257</episode-num>
+		<episode-num system="xmltv_ns">50.12.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221125110000 -0600" stop="20221125143000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">College Football</title>
+		<sub-title lang="en">Utah State at Boise State</sub-title>
+		<desc lang="en">The Mountain West title game-bound Broncos host the Aggies. Boise State beat Wyoming in Week 12, clinching the Mountain Division crown and a Dec. 3 date with Fresno State in the final. Boise leads the series 18-3 after winning the past six meetings.</desc>
+		<date>20221125</date>
+		<category lang="en">Sports</category>
+		<length units="minutes">210</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22389021_tb2_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04337352&amp;tmsId=EP043373521367</url>
+		<episode-num system="dd_progid">EP04337352.1367</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125143000 -0600" stop="20221125180000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">College Football</title>
+		<sub-title lang="en">Arkansas at Missouri</sub-title>
+		<desc lang="en">The Razorbacks (6-5, 3-4 SEC) visit the Tigers (5-6, 2-5 SEC). Raheim Sanders ran for a career high 232 yards while scoring three times during Arkansas&apos; 42-27 upset of then-No. 14 Ole Miss in Week 12. Arkansas doubled up Missouri 34-17 last season.</desc>
+		<date>20221125</date>
+		<category lang="en">Sports</category>
+		<length units="minutes">210</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22389027_tb2_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04337352&amp;tmsId=EP043373521371</url>
+		<episode-num system="dd_progid">EP04337352.1371</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125180000 -0600" stop="20221125183000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 6</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280635_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573287&amp;tmsId=SH015732870000</url>
+		<episode-num system="dd_progid">SH01573287.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125183000 -0600" stop="20221125190000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Wheel of Fortune</title>
+		<sub-title lang="en">College Week</sub-title>
+		<desc lang="en">In a classic game-show version of &quot;Hangman,&quot; contestants solve word puzzles for cash and prizes.</desc>
+		<date>20221126</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p184057_b_v13_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004762&amp;tmsId=EP000047624207</url>
+		<episode-num system="common">S40E55</episode-num>
+		<episode-num system="dd_progid">EP00004762.4207</episode-num>
+		<episode-num system="xmltv_ns">39.54.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221125190000 -0600" stop="20221125193200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Frosty the Snowman</title>
+		<desc lang="en">An animated adaptation of Romeo Muller&apos;s story. Narrated by Jimmy Durante.</desc>
+		<category lang="en">Family</category>
+		<length units="minutes">32</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p390062_b_v13_ag.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00014896&amp;tmsId=SH000148960000</url>
+		<episode-num system="dd_progid">SH00014896.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221125193200 -0600" stop="20221125200100 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Frosty Returns</title>
+		<desc lang="en">A snow-removal spray threatens magic Frosty (voice of John Goodman); narrator Jonathan Winters.</desc>
+		<category lang="en">Family</category>
+		<length units="minutes">29</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p237696_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00161184&amp;tmsId=SH001611840000</url>
+		<episode-num system="dd_progid">SH00161184.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221125200100 -0600" stop="20221125220000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">A Christmas Proposal</title>
+		<desc lang="en">Hoping to impress his family during a Christmas visit, a hotshot Seattle attorney asks a down-on-her-luck chef to pose as his girlfriend. Their business arrangement soon gets complicated as real sparks begin to fly during the holiday season.</desc>
+		<date>2021</date>
+		<category lang="en">Movie</category>
+		<length units="minutes">119</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20940578_v_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=MV01747401&amp;tmsId=MV017474010000</url>
+		<episode-num system="dd_progid">MV01747401.0000</episode-num>
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125220000 -0600" stop="20221125223500 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221125223500 -0600" stop="20221125233700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Show With Stephen Colbert</title>
+		<sub-title lang="en">Elizabeth Warren; Ernest Moniz</sub-title>
+		<desc lang="en">Sen. Elizabeth Warren (D-Mass.); former energy secretary Ernest Moniz.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">62</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23286322_e_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01906276&amp;tmsId=EP019062761370</url>
+		<episode-num system="common">S08E29</episode-num>
+		<episode-num system="dd_progid">EP01906276.1370</episode-num>
+		<episode-num system="xmltv_ns">7.28.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221125233700 -0600" stop="20221126003700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Late Show With James Corden</title>
+		<sub-title lang="en">Jimmy Smits; Zach Woods; Greg Stone</sub-title>
+		<desc lang="en">Actor Jimmy Smits; actor Zach Woods; comic Greg Stone.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23106676_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01995293&amp;tmsId=EP019952931143</url>
+		<episode-num system="common">S08E19</episode-num>
+		<episode-num system="dd_progid">EP01995293.1143</episode-num>
+		<episode-num system="xmltv_ns">7.18.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221126003700 -0600" stop="20221126010700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">A special episode highlighting the best of DBL includes chatting with 1980s pop star Debbie Gibson and &quot;Full House&quot; stars John Stamos, Candace Cameron Bure and Jodie Sweetin.</desc>
+		<date>20221126</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913987</url>
+		<episode-num system="dd_progid">EP02748291.3987</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221126010700 -0600" stop="20221126013700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Wash Allen</title>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8031853_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01240641&amp;tmsId=SH012406410000</url>
+		<episode-num system="dd_progid">SH01240641.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221126013700 -0600" stop="20221126020700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126020700 -0600" stop="20221126023700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126023700 -0600" stop="20221126030700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126030700 -0600" stop="20221126033700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Peter Popoff Ministries</title>
+		<desc lang="en">For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God&apos;s blessings in your life.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12072954_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02254818&amp;tmsId=SH022548180000</url>
+		<episode-num system="dd_progid">SH02254818.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221126033700 -0600" stop="20221126040000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">A special episode highlighting the best of DBL includes chatting with 1980s pop star Debbie Gibson and &quot;Full House&quot; stars John Stamos, Candace Cameron Bure and Jodie Sweetin.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">23</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913978</url>
+		<episode-num system="dd_progid">EP02748291.3978</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221126040000 -0600" stop="20221126043000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Relieve your foot pain with WalkFit!</title>
+		<desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18633047_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03580710&amp;tmsId=SH035807100000</url>
+		<episode-num system="dd_progid">SH03580710.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221126043000 -0600" stop="20221126050000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126050000 -0600" stop="20221126053000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">All In With Laila Ali</title>
+		<sub-title lang="en">Racing Down the Volcano</sub-title>
+		<desc lang="en">A bike rider tries to set a speed record racing down the side of a volcano; a man with a pet hippo; skateboarder Ryan Sheckler.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10110397_b_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01772963&amp;tmsId=EP017729630009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP01772963.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126053000 -0600" stop="20221126060000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Did I Mention Invention?</title>
+		<sub-title lang="en">Pony Play</sub-title>
+		<desc lang="en">Horses having a ball; font artists; headphones that help one sleep; lighting off-the-grid homes with soda bottles.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15877226_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03039665&amp;tmsId=EP030396650002</url>
+		<episode-num system="common">S01E02</episode-num>
+		<episode-num system="dd_progid">EP03039665.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126060000 -0600" stop="20221126063000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Lucky Dog</title>
+		<sub-title lang="en">Arts and Crafts</sub-title>
+		<desc lang="en">Eric and Rashi place three different shelter dogs into the homes of adopters whose lives revolve around music, photography and an assortment of arts and crafts.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23042473_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01772950&amp;tmsId=EP017729500234</url>
+		<episode-num system="common">S09E21</episode-num>
+		<episode-num system="dd_progid">EP01772950.0234</episode-num>
+		<episode-num system="xmltv_ns">8.20.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126063000 -0600" stop="20221126070000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Henry Ford&apos;s Innovation Nation</title>
+		<sub-title lang="en">Rock Climbing Treadmill</sub-title>
+		<desc lang="en">A rock climbing treadmill wall; making plant milk at home; how hurricane-proof shipping container homes are keeping families safe; how driver education makes our roads safer.</desc>
+		<category lang="en">Family</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11048710_b_v13_ak.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01991910&amp;tmsId=EP019919100210</url>
+		<episode-num system="common">S09E02</episode-num>
+		<episode-num system="dd_progid">EP01991910.0210</episode-num>
+		<episode-num system="xmltv_ns">8.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126070000 -0600" stop="20221126090000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Saturday Morning</title>
+		<desc lang="en">Paolo Nutini performs; restaurateurs Jill and Eric Skokan.</desc>
+		<date>20221126</date>
+		<category lang="en">News</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20589876_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03989702&amp;tmsId=EP039897020063</url>
+		<episode-num system="dd_progid">EP03989702.0063</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221126090000 -0600" stop="20221126100000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News Sat</title>
+		<desc lang="en">Houston morning newscast featuring breaking news from overnight, local weather and special reports. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367377_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160063&amp;tmsId=SH041600630000</url>
+		<episode-num system="dd_progid">SH04160063.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221126100000 -0600" stop="20221126103000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126103000 -0600" stop="20221126110000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Mission Unstoppable</title>
+		<sub-title lang="en">Pikas, Phones, Promethium</sub-title>
+		<desc lang="en">An ecologist studies adorable pikas; the hidden data on cellphones; a nuclear engineer refines rare isotopes that power NASA&apos;s Perseverance Mars rover; the incredible story of the first computer programmer.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23042495_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03300291&amp;tmsId=EP033002910080</url>
+		<episode-num system="common">S04E02</episode-num>
+		<episode-num system="dd_progid">EP03300291.0080</episode-num>
+		<episode-num system="xmltv_ns">3.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126110000 -0600" stop="20221126113000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Hope in the Wild</title>
+		<sub-title lang="en">An Owl Tale With a Twist</sub-title>
+		<desc lang="en">An owl has wing and eye issues; a volunteer makes a daring coyote rescue.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15798724_b_v10_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03023421&amp;tmsId=EP030234210107</url>
+		<episode-num system="common">S05E02</episode-num>
+		<episode-num system="dd_progid">EP03023421.0107</episode-num>
+		<episode-num system="xmltv_ns">4.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126113000 -0600" stop="20221126120000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126120000 -0600" stop="20221126123000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Car Repair Secrets!</title>
+		<desc lang="en">Thinking of Investing? Find out how investing in your car could save you thousands!</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17463183_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03332862&amp;tmsId=SH033328620000</url>
+		<episode-num system="dd_progid">SH03332862.0000</episode-num>
+		<previously-shown />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126123000 -0600" stop="20221126133000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">NFL Championship Chase: Playoff Push</title>
+		<desc lang="en">An in-depth look at all the great plays and key moments of the 2022 season as NFL teams make their push for the playoffs.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22972989_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04460680&amp;tmsId=SH044606800000</url>
+		<episode-num system="dd_progid">SH04460680.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221126133000 -0600" stop="20221126140000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">College Football Special</title>
+		<desc lang="en">College football news, highlights and analysis.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20374210_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03941410&amp;tmsId=SH039414100000</url>
+		<episode-num system="dd_progid">SH03941410.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221126140000 -0600" stop="20221126143000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">College Football Today</title>
+		<desc lang="en">Preview of upcoming games.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p221280_b_v9_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00081255&amp;tmsId=SH000812550000</url>
+		<episode-num system="dd_progid">SH00081255.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221126143000 -0600" stop="20221126180000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">College Football</title>
+		<sub-title lang="en">Auburn at Alabama</sub-title>
+		<desc lang="en">The No. 7 Crimson Tide (9-2, 5-2 SEC) host the Tigers (5-6, 2-5) for the 87th Iron Bowl. Alabama leads the series 48-37-1 after winning the last two meetings. Auburn is in danger of not playing in a bowl game for the first time in 10 years.</desc>
+		<date>20221126</date>
+		<category lang="en">Sports</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22389092_tb2_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04337352&amp;tmsId=EP043373521388</url>
+		<episode-num system="dd_progid">EP04337352.1388</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221126180000 -0600" stop="20221126183000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 6</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280635_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573287&amp;tmsId=SH015732870000</url>
+		<episode-num system="dd_progid">SH01573287.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221126183000 -0600" stop="20221126190000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Wheel of Fortune</title>
+		<sub-title lang="en">Hawaii</sub-title>
+		<desc lang="en">In a classic game-show version of &quot;Hangman,&quot; contestants solve word puzzles for cash and prizes.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p184057_b_v13_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004762&amp;tmsId=EP000047624073</url>
+		<episode-num system="common">S39E116</episode-num>
+		<episode-num system="dd_progid">EP00004762.4073</episode-num>
+		<episode-num system="xmltv_ns">38.115.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221126190000 -0600" stop="20221126210000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Byron Allen Presents TheGrio Awards</title>
+		<desc lang="en">Celebrating Black excellence across 14 categories including film, music, comedy, sports and education; recognizing those who are making an impact and amplifying the culture in their work and everyday lives.</desc>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22794585_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04425815&amp;tmsId=SH044258150000</url>
+		<episode-num system="dd_progid">SH04425815.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221126210000 -0600" stop="20221126220000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">48 Hours</title>
+		<sub-title lang="en">The Case Against Michael Politte</sub-title>
+		<desc lang="en">Charged with killing his mother when he was just 14, a Missouri man out on parole after 23 years fights to clear his name, claiming the real killer is still out there.</desc>
+		<date>20221127</date>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p200944_b_v13_au.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00016747&amp;tmsId=EP000167471438</url>
+		<episode-num system="common">S36E09</episode-num>
+		<episode-num system="dd_progid">EP00016747.1438</episode-num>
+		<episode-num system="xmltv_ns">35.8.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221126220000 -0600" stop="20221126223000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221126223000 -0600" stop="20221126230000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10PM Extra</title>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10408641_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01841943&amp;tmsId=SH018419430000</url>
+		<episode-num system="dd_progid">SH01841943.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221126230000 -0600" stop="20221126233000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Inside High School Sports</title>
+		<desc lang="en">An inside look at high school sports. Host Matt Musil.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11006146_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01980915&amp;tmsId=SH019809150000</url>
+		<episode-num system="dd_progid">SH01980915.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221126233000 -0600" stop="20221127003000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">SEAL Team</title>
+		<sub-title lang="en">Drawdown</sub-title>
+		<desc lang="en">Bravo Team begins their deployment in Afghanistan during peace negotiations; Sonny reports to an Air Force base in Texas to serve his disciplinary training action and gets reacquainted with Hannah, a childhood friend.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18069074_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02696552&amp;tmsId=EP026965520065</url>
+		<episode-num system="common">S03E17</episode-num>
+		<episode-num system="dd_progid">EP02696552.0065</episode-num>
+		<episode-num system="xmltv_ns">2.16.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221127003000 -0600" stop="20221127013000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Magnum P.I.</title>
+		<sub-title lang="en">Payback for Beginners</sub-title>
+		<desc lang="en">While Magnum waits for Higgins to decide if she&apos;ll officially become his partner, he takes the case of a missing wife who witnessed her boss&apos;s murder during a bank robbery; Rick makes a big decision about his career.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17047592_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02971537&amp;tmsId=EP029715370021</url>
+		<episode-num system="common">S02E01</episode-num>
+		<episode-num system="dd_progid">EP02971537.0021</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221127013000 -0600" stop="20221127023000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Murdoch Mysteries</title>
+		<sub-title lang="en">Everything Is Broken Part 2</sub-title>
+		<desc lang="en">Reeling from a personal revelation, Murdoch seeks to avenge the murder of Anna Fulford.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19559959_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01014682&amp;tmsId=EP010146820268</url>
+		<episode-num system="common">S14E11</episode-num>
+		<episode-num system="dd_progid">EP01014682.0268</episode-num>
+		<episode-num system="xmltv_ns">13.10.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221127023000 -0600" stop="20221127030000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">In Touch With Dr. Charles Stanley</title>
+		<sub-title lang="en">Overflowing With Gratitude</sub-title>
+		<desc lang="en">How a grateful heart glorifies God.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16018780_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00039060&amp;tmsId=EP000390600687</url>
+		<episode-num system="dd_progid">EP00039060.0687</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221127030000 -0600" stop="20221127033000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221127033000 -0600" stop="20221127040000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
+		<desc lang="en">If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15918995_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03048214&amp;tmsId=SH030482140000</url>
+		<episode-num system="dd_progid">SH03048214.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221127040000 -0600" stop="20221127043000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Latina Voices</title>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p771527_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01129525&amp;tmsId=SH011295250000</url>
+		<episode-num system="dd_progid">SH01129525.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221127043000 -0600" stop="20221127050000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Humana Medicare Advantage Plans</title>
+		<desc lang="en">The Medicare annual election period ends on December 7. Watch and learn about Humana Medicare Advantage plans.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11116175_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02013455&amp;tmsId=SH020134550000</url>
+		<episode-num system="dd_progid">SH02013455.0000</episode-num>
+		<previously-shown />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221127050000 -0600" stop="20221127053000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Inside Texas Politics</title>
+		<desc lang="en">Discussions with local lawmakers &amp; leaders and in depth analysis of Texas political issues.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8128096_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01279399&amp;tmsId=SH012793990000</url>
+		<episode-num system="dd_progid">SH01279399.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221127053000 -0600" stop="20221127060000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">In Touch With Dr. Charles Stanley</title>
+		<sub-title lang="en">The Circle of Our Impact</sub-title>
+		<desc lang="en">Influencing the world for God&apos;s kingdom.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16018780_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00039060&amp;tmsId=EP000390600344</url>
+		<episode-num system="dd_progid">EP00039060.0344</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221127060000 -0600" stop="20221127063000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Call to Joy</title>
+		<desc lang="en">Explore the path to God&apos;s grace; the dynamic teachings of Rev. Terry K. Anderson, Sr. Pastor at Lilly Grove Missionary Baptist Church.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22504332_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04364697&amp;tmsId=SH043646970000</url>
+		<episode-num system="dd_progid">SH04364697.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127063000 -0600" stop="20221127080000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News Sun</title>
+		<desc lang="en">Houston morning newscast featuring breaking news from overnight, local weather and special reports. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367383_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160065&amp;tmsId=SH041600650000</url>
+		<episode-num system="dd_progid">SH04160065.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221127080000 -0600" stop="20221127093000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS News Sunday Morning</title>
+		<desc lang="en">News, features, weather and commentary.</desc>
+		<date>20221127</date>
+		<category lang="en">News</category>
+		<length units="minutes">90</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185497_b_v13_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019128&amp;tmsId=EP000191281607</url>
+		<episode-num system="dd_progid">EP00019128.1607</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127093000 -0600" stop="20221127103000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Face the Nation</title>
+		<desc lang="en">Margaret Brennan hosts news interviews with distinguished national and foreign figures, offering insight and analysis on the top issues of the day.</desc>
+		<date>20221127</date>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p184331_b_v13_al.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00001522&amp;tmsId=EP000015221572</url>
+		<episode-num system="dd_progid">EP00001522.1572</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127103000 -0600" stop="20221127110000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Winning Walk with Dr. Ed Young</title>
+		<desc lang="en">Religious programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3527281_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01149465&amp;tmsId=SH011494650000</url>
+		<episode-num system="dd_progid">SH01149465.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221127110000 -0600" stop="20221127120000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The NFL Today</title>
+		<desc lang="en">Featuring highlights, predictions and the latest news from across the league.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185928_b_v9_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00276900&amp;tmsId=SH002769000000</url>
+		<episode-num system="dd_progid">SH00276900.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127120000 -0600" stop="20221127150000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">NFL Football</title>
+		<sub-title lang="en">Houston Texans at Miami Dolphins</sub-title>
+		<desc lang="en">The well-rested Dolphins (7-3) try to stay on top in the AFC East as they host the Texans (1-8-1). Miami won four straight prior to its bye in Week 11. The Dolphins&apos; Tua Tagovailoa tossed three touchdown passes in each of the last three games.</desc>
+		<date>20221127</date>
+		<category lang="en">Sports</category>
+		<length units="minutes">180</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22189348_tb2_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00003128&amp;tmsId=EP000031283489</url>
+		<episode-num system="dd_progid">EP00003128.3489</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127150000 -0600" stop="20221127160000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">NFL Today Postgame</title>
+		<desc lang="en">Host Jim Nantz.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p267771_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00420422&amp;tmsId=SH004204220000</url>
+		<episode-num system="dd_progid">SH00420422.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127160000 -0600" stop="20221127170000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Courage in Sports: Gridiron Greatness</title>
+		<desc lang="en">A collection of some of the most uplifting and inspirational stories from on and off the football field this season.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20885558_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04067534&amp;tmsId=SH040675340000</url>
+		<episode-num system="dd_progid">SH04067534.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127170000 -0600" stop="20221127173000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Weekend News</title>
+		<desc lang="en">The latest world and national news.</desc>
+		<date>20221127</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12867762_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02425694&amp;tmsId=EP024256940689</url>
+		<episode-num system="dd_progid">EP02425694.0689</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127173000 -0600" stop="20221127180000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 5:30</title>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280649_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573296&amp;tmsId=SH015732960000</url>
+		<episode-num system="dd_progid">SH01573296.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127180000 -0600" stop="20221127190000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">60 Minutes</title>
+		<sub-title lang="en">Grave Injustice; Survival of the Friendliest; Comparative Oncology</sub-title>
+		<desc lang="en">Archeologists excavate lost graves in Clearwater, Fla.; the links between dog and human evolution; scientists, physicians and veterinarians team up to study and treat similar cancers in dogs and people.</desc>
+		<date>20221128</date>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p184224_b_v13_ak.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000035&amp;tmsId=EP000000351664</url>
+		<episode-num system="common">S55E11</episode-num>
+		<episode-num system="dd_progid">EP00000035.1664</episode-num>
+		<episode-num system="xmltv_ns">54.10.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127190000 -0600" stop="20221127200000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Equalizer</title>
+		<sub-title lang="en">Paradise Lost</sub-title>
+		<desc lang="en">After Misty, a superstar singer deciding to retire, receives a terrifying fan letter, her head of security hires McCall to track down the culprit.</desc>
+		<date>20221128</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18300011_b_v13_al.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03511596&amp;tmsId=EP035115960035</url>
+		<episode-num system="common">S03E07</episode-num>
+		<episode-num system="dd_progid">EP03511596.0035</episode-num>
+		<episode-num system="xmltv_ns">2.6.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221127200000 -0600" stop="20221127210000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">East New York</title>
+		<sub-title lang="en">When Dinosaurs Roamed the Earth</sub-title>
+		<desc lang="en">When a retired cop who was planning to go public with claims of corruption dies and it&apos;s initially ruled suicide, a skeptical Haywood directs her team to investigate; Bentley and Quinlan grow closer.</desc>
+		<date>20221128</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22213738_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04313559&amp;tmsId=EP043135590009</url>
+		<episode-num system="common">S01E09</episode-num>
+		<episode-num system="dd_progid">EP04313559.0009</episode-num>
+		<episode-num system="xmltv_ns">0.8.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221127210000 -0600" stop="20221127220000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">NCIS: Los Angeles</title>
+		<sub-title lang="en">Let It Burn</sub-title>
+		<desc lang="en">NCIS investigates an arson attack at Global West Ventures Corp., a naval defense contractor; Rountree connects with an ex; Kilbride gives Callen files on Pembrook.</desc>
+		<date>20221128</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p3561420_b_v13_bn.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01158361&amp;tmsId=EP011583610324</url>
+		<episode-num system="common">S14E08</episode-num>
+		<episode-num system="dd_progid">EP01158361.0324</episode-num>
+		<episode-num system="xmltv_ns">13.7.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221127220000 -0600" stop="20221127223000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127223000 -0600" stop="20221127230000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Sports Extra</title>
+		<desc lang="en">A Houston sports show that goes beyond the scores and highlights.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10078485_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01765199&amp;tmsId=SH017651990000</url>
+		<episode-num system="dd_progid">SH01765199.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221127230000 -0600" stop="20221127233000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Joel Osteen</title>
+		<desc lang="en">Joel and Victoria Osteen&apos;s message of unconditional love and unending hope reaches everyone across the world.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p15994076_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00283079&amp;tmsId=SH002830790000</url>
+		<episode-num system="dd_progid">SH00283079.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221127233000 -0600" stop="20221128000000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Pastor Greg Laurie</title>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p850038_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00312342&amp;tmsId=SH003123420000</url>
+		<episode-num system="dd_progid">SH00312342.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221128000000 -0600" stop="20221128003000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Game Time With Boomer Esiason</title>
+		<sub-title lang="en">Scott Drew</sub-title>
+		<desc lang="en">Scott Drew led Baylor to the NCAA basketball title in 2021 and is a three-time Big 12 Coach of the Year.</desc>
+		<date>20221126</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17167704_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03275478&amp;tmsId=EP032754780172</url>
+		<episode-num system="common">S04E08</episode-num>
+		<episode-num system="dd_progid">EP03275478.0172</episode-num>
+		<episode-num system="xmltv_ns">3.7.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128003000 -0600" stop="20221128013000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">SEAL Team</title>
+		<sub-title lang="en">What Appears to Be</sub-title>
+		<desc lang="en">The team works with the Congolese army on a covert mission to capture the head of a rebel militia group; Jason argues with Emma about college; Sonny and Davis make a big decision about their future.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16598682_e_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02696552&amp;tmsId=EP026965520038</url>
+		<episode-num system="common">S02E14</episode-num>
+		<episode-num system="dd_progid">EP02696552.0038</episode-num>
+		<episode-num system="xmltv_ns">1.13.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221128013000 -0600" stop="20221128023000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Magnum P.I.</title>
+		<sub-title lang="en">Easy Money</sub-title>
+		<desc lang="en">Higgins&apos; job to repossess a plane goes south when a drug cartel opens fire at the plane, forcing her and Magnum to crash land in the jungle; Higgins has her first date with Dr. Ethan Shah.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p19115650_e_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02971537&amp;tmsId=EP029715370043</url>
+		<episode-num system="common">S03E02</episode-num>
+		<episode-num system="dd_progid">EP02971537.0043</episode-num>
+		<episode-num system="xmltv_ns">2.1.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221128023000 -0600" stop="20221128030000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">In Touch With Dr. Charles Stanley</title>
+		<sub-title lang="en">The Circle of Our Impact</sub-title>
+		<desc lang="en">Influencing the world for God&apos;s kingdom.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p16018780_b_v10_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00039060&amp;tmsId=EP000390600344</url>
+		<episode-num system="dd_progid">EP00039060.0344</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221128030000 -0600" stop="20221128040000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Overnight News</title>
+		<desc lang="en">National and international headlines from CBS News journalists all around the world, plus stories from the West Coast edition of the &quot;CBS Evening News With Norah O&apos;Donnell.&quot;</desc>
+		<category lang="en">News</category>
+		<length units="minutes">48</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12135609_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02269178&amp;tmsId=SH022691780000</url>
+		<episode-num system="dd_progid">SH02269178.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128040000 -0600" stop="20221128043000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Morning News</title>
+		<desc lang="en">News reports on current events.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185953_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019131&amp;tmsId=SH000191310000</url>
+		<episode-num system="dd_progid">SH00019131.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128043000 -0600" stop="20221128050000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News First Look</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367305_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160040&amp;tmsId=SH041600400000</url>
+		<episode-num system="dd_progid">SH04160040.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221128050000 -0600" stop="20221128060000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 5A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367349_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160054&amp;tmsId=SH041600540000</url>
+		<episode-num system="dd_progid">SH04160054.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221128060000 -0600" stop="20221128070000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 6A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367365_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160060&amp;tmsId=SH041600600000</url>
+		<episode-num system="dd_progid">SH04160060.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221128070000 -0600" stop="20221128090000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Mornings</title>
+		<desc lang="en">Author Maria Ressa; author Louise Penny.</desc>
+		<date>20221128</date>
+		<category lang="en">News</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20589677_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03989671&amp;tmsId=EP039896710320</url>
+		<episode-num system="dd_progid">EP03989671.0320</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128090000 -0600" stop="20221128100000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Great Day Houston</title>
+		<desc lang="en">Food, fashion, fitness and fun with celebrity interviews by host Deborah Duncan.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p709577_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00815429&amp;tmsId=SH008154290000</url>
+		<episode-num system="dd_progid">SH00815429.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128100000 -0600" stop="20221128110000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Price Is Right</title>
+		<desc lang="en">Contestants bid for prizes then compete for fabulous showcases.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183911_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004372&amp;tmsId=EP000043722245</url>
+		<episode-num system="common">S51E01</episode-num>
+		<episode-num system="dd_progid">EP00004372.2245</episode-num>
+		<episode-num system="xmltv_ns">50.0.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221128110000 -0600" stop="20221128120000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Young and the Restless</title>
+		<desc lang="en">Diane makes a promise to Jack; Ashley interrogates Tucker; Devon comes clean with Lily.</desc>
+		<date>20221128</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183904_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004422&amp;tmsId=EP000044229462</url>
+		<episode-num system="common">S50E40</episode-num>
+		<episode-num system="dd_progid">EP00004422.9462</episode-num>
+		<episode-num system="xmltv_ns">49.39.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221128120000 -0600" stop="20221128123000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at Noon</title>
+		<desc lang="en">Updates on important news of the day and the latest forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280638_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573289&amp;tmsId=SH015732890000</url>
+		<episode-num system="dd_progid">SH01573289.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128123000 -0600" stop="20221128130000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Bold and the Beautiful</title>
+		<desc lang="en">Brooke aches for Ridge as his wedding to Taylor begins; a sordid truth is revealed in an unexpected way.</desc>
+		<date>20221128</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183907_b_v9_ca.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004217&amp;tmsId=EP000042177136</url>
+		<episode-num system="common">S36E43</episode-num>
+		<episode-num system="dd_progid">EP00004217.7136</episode-num>
+		<episode-num system="xmltv_ns">35.42.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221128130000 -0600" stop="20221128140000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Talk</title>
+		<desc lang="en">Actor Omari Hardwick.</desc>
+		<date>20221128</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8217151_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01307855&amp;tmsId=EP013078552650</url>
+		<episode-num system="common">S13E54</episode-num>
+		<episode-num system="dd_progid">EP01307855.2650</episode-num>
+		<episode-num system="xmltv_ns">12.53.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221128140000 -0600" stop="20221128150000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Let&apos;s Make a Deal</title>
+		<desc lang="en">Costumed contestants compete for cash and prizes.</desc>
+		<date>20221128</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7805542_b_v13_ag.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01176132&amp;tmsId=EP011761321981</url>
+		<episode-num system="common">S14E49</episode-num>
+		<episode-num system="dd_progid">EP01176132.1981</episode-num>
+		<episode-num system="xmltv_ns">13.48.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221128150000 -0600" stop="20221128153000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">Carla Hall (&quot;Top Chef,&quot; &quot;Holiday Baking Championship: Gingerbread Showdown&quot;); Jennifer Candy, daughter of John Candy (&quot;Uncle Buck&quot;) talks about being a part of a documentary about his life by Ryan Reynolds and Colin Hanks.</desc>
+		<date>20221128</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913989</url>
+		<episode-num system="common">S06E54</episode-num>
+		<episode-num system="dd_progid">EP02748291.3989</episode-num>
+		<episode-num system="xmltv_ns">5.53.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221128153000 -0600" stop="20221128160000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">Carla Hall (&quot;Top Chef,&quot; &quot;Holiday Baking Championship: Gingerbread Showdown&quot;); Jennifer Candy, daughter of John Candy (&quot;Uncle Buck&quot;) talks about being a part of a documentary about his life by Ryan Reynolds and Colin Hanks.</desc>
+		<date>20221128</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913994</url>
+		<episode-num system="dd_progid">EP02748291.3994</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221128160000 -0600" stop="20221128170000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The 411 on KHOU 11</title>
+		<desc lang="en">Today&apos;s top stories and the latest forecast for the Houston area; trending topics from around the country.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18538522_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03558117&amp;tmsId=SH035581170000</url>
+		<episode-num system="dd_progid">SH03558117.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128170000 -0600" stop="20221128173000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 5</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280634_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573286&amp;tmsId=SH015732860000</url>
+		<episode-num system="dd_progid">SH01573286.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128173000 -0600" stop="20221128180000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Evening News With Norah O&apos;Donnell</title>
+		<desc lang="en">A weeknight survey of major news stories, human-interest segments and interviews with newsmakers, anchored by Norah O&apos;Donnell.</desc>
+		<date>20221128</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17079977_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03258257&amp;tmsId=EP032582570881</url>
+		<episode-num system="dd_progid">EP03258257.0881</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128180000 -0600" stop="20221128183000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 6</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280635_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573287&amp;tmsId=SH015732870000</url>
+		<episode-num system="dd_progid">SH01573287.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128183000 -0600" stop="20221128190000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Wheel of Fortune</title>
+		<sub-title lang="en">America&apos;s Game</sub-title>
+		<desc lang="en">In a classic game-show version of &quot;Hangman,&quot; contestants solve word puzzles for cash and prizes.</desc>
+		<date>20221129</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p184057_b_v13_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004762&amp;tmsId=EP000047624208</url>
+		<episode-num system="common">S40E56</episode-num>
+		<episode-num system="dd_progid">EP00004762.4208</episode-num>
+		<episode-num system="xmltv_ns">39.55.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221128190000 -0600" stop="20221128193000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Neighborhood</title>
+		<sub-title lang="en">Welcome to the Big One</sub-title>
+		<desc lang="en">The Butlers and Johnsons are rattled in different ways after an earthquake strikes; Dave goes to extremes trying to prepare his family for the next earthquake.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21337824_e_v9_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02971592&amp;tmsId=EP029715920074</url>
+		<episode-num system="common">S04E12</episode-num>
+		<episode-num system="dd_progid">EP02971592.0074</episode-num>
+		<episode-num system="xmltv_ns">3.11.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221128193000 -0600" stop="20221128200000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Bob Hearts Abishola</title>
+		<sub-title lang="en">Every Subpoena Is a Tiny Hug</sub-title>
+		<desc lang="en">When Christina gets a new job at a sock startup, the family is supportive until it finds out the new company is more successful than MaxDot.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21605545_e_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03230221&amp;tmsId=EP032302210052</url>
+		<episode-num system="common">S03E14</episode-num>
+		<episode-num system="dd_progid">EP03230221.0052</episode-num>
+		<episode-num system="xmltv_ns">2.13.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221128200000 -0600" stop="20221128210000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">NCIS</title>
+		<sub-title lang="en">All or Nothing</sub-title>
+		<desc lang="en">NCIS investigates the unexpected death of a Navy reservist who was an investigative journalist; Knight and Jimmy&apos;s budding romance is put on hold when a vital organ transfer goes fatally wrong.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22060961_e_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00681911&amp;tmsId=EP006819110466</url>
+		<episode-num system="common">S19E20</episode-num>
+		<episode-num system="dd_progid">EP00681911.0466</episode-num>
+		<episode-num system="xmltv_ns">18.19.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221128210000 -0600" stop="20221128220000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">NCIS: Hawai&apos;i</title>
+		<sub-title lang="en">Nightwatch</sub-title>
+		<desc lang="en">When a Navy seaman is involved in a murder, the team is called upon to work the case on its day off; Lucy finds out Whistler turned down a promotion in Washington to stay in Hawaii.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21986497_e_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03874094&amp;tmsId=EP038740940022</url>
+		<episode-num system="common">S01E20</episode-num>
+		<episode-num system="dd_progid">EP03874094.0022</episode-num>
+		<episode-num system="xmltv_ns">0.19.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221128220000 -0600" stop="20221128223500 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221128223500 -0600" stop="20221128233700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Show With Stephen Colbert</title>
+		<sub-title lang="en">Don Lemon; Gabrielle Union</sub-title>
+		<desc lang="en">Journalist Don Lemon; actress Gabrielle Union.</desc>
+		<date>20221129</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">62</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10703384_b_v13_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01906276&amp;tmsId=EP019062761383</url>
+		<episode-num system="common">S08E42</episode-num>
+		<episode-num system="dd_progid">EP01906276.1383</episode-num>
+		<episode-num system="xmltv_ns">7.41.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221128233700 -0600" stop="20221129003700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Late Show With James Corden</title>
+		<sub-title lang="en">Emily Deschanel; Keegan-Michael Key; Black Eyed Peas</sub-title>
+		<desc lang="en">Actress Emily Deschanel; actor Keegan-Michael Key; Black Eyed Peas perform.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23003259_e_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01995293&amp;tmsId=EP019952931132</url>
+		<episode-num system="common">S08E08</episode-num>
+		<episode-num system="dd_progid">EP01995293.1132</episode-num>
+		<episode-num system="xmltv_ns">7.7.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221129003700 -0600" stop="20221129010700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">Carla Hall (&quot;Top Chef,&quot; &quot;Holiday Baking Championship: Gingerbread Showdown&quot;); Jennifer Candy, daughter of John Candy (&quot;Uncle Buck&quot;) talks about being a part of a documentary about his life by Ryan Reynolds and Colin Hanks.</desc>
+		<date>20221128</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913994</url>
+		<episode-num system="dd_progid">EP02748291.3994</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221129010700 -0600" stop="20221129013700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221129013700 -0600" stop="20221129021200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129021200 -0600" stop="20221129024200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221129024200 -0600" stop="20221129031200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Relieve your foot pain with WalkFit!</title>
+		<desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18633047_st_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03580710&amp;tmsId=SH035807100000</url>
+		<episode-num system="dd_progid">SH03580710.0000</episode-num>
+		<previously-shown />
+	</programme>
+	<programme start="20221129031200 -0600" stop="20221129040000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Overnight News</title>
+		<desc lang="en">National and international headlines from CBS News journalists all around the world, plus stories from the West Coast edition of the &quot;CBS Evening News With Norah O&apos;Donnell.&quot;</desc>
+		<category lang="en">News</category>
+		<length units="minutes">48</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12135609_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02269178&amp;tmsId=SH022691780000</url>
+		<episode-num system="dd_progid">SH02269178.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129040000 -0600" stop="20221129043000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Morning News</title>
+		<desc lang="en">News reports on current events.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185953_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019131&amp;tmsId=SH000191310000</url>
+		<episode-num system="dd_progid">SH00019131.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129043000 -0600" stop="20221129050000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News First Look</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367305_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160040&amp;tmsId=SH041600400000</url>
+		<episode-num system="dd_progid">SH04160040.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221129050000 -0600" stop="20221129060000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 5A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367349_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160054&amp;tmsId=SH041600540000</url>
+		<episode-num system="dd_progid">SH04160054.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221129060000 -0600" stop="20221129070000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 6A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367365_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160060&amp;tmsId=SH041600600000</url>
+		<episode-num system="dd_progid">SH04160060.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221129070000 -0600" stop="20221129090000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Mornings</title>
+		<desc lang="en">Comic Rob Delaney; actress Claire Foy.</desc>
+		<date>20221129</date>
+		<category lang="en">News</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20589677_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03989671&amp;tmsId=EP039896710321</url>
+		<episode-num system="dd_progid">EP03989671.0321</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129090000 -0600" stop="20221129100000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Great Day Houston</title>
+		<desc lang="en">Food, fashion, fitness and fun with celebrity interviews by host Deborah Duncan.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p709577_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00815429&amp;tmsId=SH008154290000</url>
+		<episode-num system="dd_progid">SH00815429.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129100000 -0600" stop="20221129110000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Price Is Right</title>
+		<desc lang="en">Contestants bid for prizes then compete for fabulous showcases.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183911_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004372&amp;tmsId=EP000043722248</url>
+		<episode-num system="common">S51E04</episode-num>
+		<episode-num system="dd_progid">EP00004372.2248</episode-num>
+		<episode-num system="xmltv_ns">50.3.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221129110000 -0600" stop="20221129120000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Young and the Restless</title>
+		<desc lang="en">Victor stands his ground to protect Abby; Billy and Chloe comfort Chelsea; Nick gives Nate a reality check.</desc>
+		<date>20221129</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183904_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004422&amp;tmsId=EP000044229463</url>
+		<episode-num system="common">S50E41</episode-num>
+		<episode-num system="dd_progid">EP00004422.9463</episode-num>
+		<episode-num system="xmltv_ns">49.40.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221129120000 -0600" stop="20221129123000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at Noon</title>
+		<desc lang="en">Updates on important news of the day and the latest forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280638_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573289&amp;tmsId=SH015732890000</url>
+		<episode-num system="dd_progid">SH01573289.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129123000 -0600" stop="20221129130000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Bold and the Beautiful</title>
+		<desc lang="en">Sheila and Deacon bicker about Brooke and Taylor; an act of betrayal causes irreparable harm to a once-solid relationship.</desc>
+		<date>20221129</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183907_b_v9_ca.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004217&amp;tmsId=EP000042177137</url>
+		<episode-num system="common">S36E44</episode-num>
+		<episode-num system="dd_progid">EP00004217.7137</episode-num>
+		<episode-num system="xmltv_ns">35.43.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221129130000 -0600" stop="20221129140000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Talk</title>
+		<desc lang="en">Actress Sarah Chalke; model Paulina Porizkova.</desc>
+		<date>20221129</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8217151_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01307855&amp;tmsId=EP013078552651</url>
+		<episode-num system="common">S13E55</episode-num>
+		<episode-num system="dd_progid">EP01307855.2651</episode-num>
+		<episode-num system="xmltv_ns">12.54.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221129140000 -0600" stop="20221129150000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Let&apos;s Make a Deal</title>
+		<desc lang="en">Costumed contestants compete for cash and prizes.</desc>
+		<date>20221129</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7805542_b_v13_ag.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01176132&amp;tmsId=EP011761321982</url>
+		<episode-num system="common">S14E50</episode-num>
+		<episode-num system="dd_progid">EP01176132.1982</episode-num>
+		<episode-num system="xmltv_ns">13.49.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221129150000 -0600" stop="20221129153000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">A powerful story about a mother/daughter reunion 50 years in the making.</desc>
+		<date>20221129</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913990</url>
+		<episode-num system="common">S06E55</episode-num>
+		<episode-num system="dd_progid">EP02748291.3990</episode-num>
+		<episode-num system="xmltv_ns">5.54.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221129153000 -0600" stop="20221129160000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">A powerful story about a mother/daughter reunion 50 years in the making.</desc>
+		<date>20221129</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913996</url>
+		<episode-num system="dd_progid">EP02748291.3996</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221129160000 -0600" stop="20221129170000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The 411 on KHOU 11</title>
+		<desc lang="en">Today&apos;s top stories and the latest forecast for the Houston area; trending topics from around the country.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18538522_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03558117&amp;tmsId=SH035581170000</url>
+		<episode-num system="dd_progid">SH03558117.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129170000 -0600" stop="20221129173000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 5</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280634_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573286&amp;tmsId=SH015732860000</url>
+		<episode-num system="dd_progid">SH01573286.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129173000 -0600" stop="20221129180000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Evening News With Norah O&apos;Donnell</title>
+		<desc lang="en">A weeknight survey of major news stories, human-interest segments and interviews with newsmakers, anchored by Norah O&apos;Donnell.</desc>
+		<date>20221129</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17079977_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03258257&amp;tmsId=EP032582570882</url>
+		<episode-num system="dd_progid">EP03258257.0882</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129180000 -0600" stop="20221129183000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 6</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280635_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573287&amp;tmsId=SH015732870000</url>
+		<episode-num system="dd_progid">SH01573287.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129183000 -0600" stop="20221129190000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Wheel of Fortune</title>
+		<sub-title lang="en">America&apos;s Game</sub-title>
+		<desc lang="en">In a classic game-show version of &quot;Hangman,&quot; contestants solve word puzzles for cash and prizes.</desc>
+		<date>20221130</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p184057_b_v13_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004762&amp;tmsId=EP000047624209</url>
+		<episode-num system="common">S40E57</episode-num>
+		<episode-num system="dd_progid">EP00004762.4209</episode-num>
+		<episode-num system="xmltv_ns">39.56.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221129190000 -0600" stop="20221129200100 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Rudolph the Red-Nosed Reindeer</title>
+		<desc lang="en">The reindeer with the incandescent nose guides Santa&apos;s sleigh through a bad storm on Christmas Eve. Based on the song by Johnny Marks.</desc>
+		<category lang="en">Family</category>
+		<length units="minutes">61</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p479667_b_v10_af.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00008211&amp;tmsId=SH000082110000</url>
+		<episode-num system="dd_progid">SH00008211.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221129200100 -0600" stop="20221129210100 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Reindeer in Here</title>
+		<desc lang="en">Blizzard, a young reindeer living at the North Pole, and his unique group of friends band together to save the future of Christmas, creating a magical holiday tradition in the process.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p23001011_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04466079&amp;tmsId=SH044660790000</url>
+		<episode-num system="dd_progid">SH04466079.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221129210100 -0600" stop="20221129220000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">FBI: Most Wanted</title>
+		<sub-title lang="en">Inheritance</sub-title>
+		<desc lang="en">When a wealthy couple are killed by a female con artist posing as a personal trainer, the team works to find out her true identity and track her down; Ortiz is put in a tough place when Hana&apos;s brother asks for a favor.</desc>
+		<length units="minutes">59</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p22060972_e_v10_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03230300&amp;tmsId=EP032303000052</url>
+		<episode-num system="common">S03E21</episode-num>
+		<episode-num system="dd_progid">EP03230300.0052</episode-num>
+		<episode-num system="xmltv_ns">2.20.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221129220000 -0600" stop="20221129223500 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221129223500 -0600" stop="20221129233700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Show With Stephen Colbert</title>
+		<sub-title lang="en">Sally Field; Maria Ressa</sub-title>
+		<desc lang="en">Actress Sally Field; journalist Maria Ressa.</desc>
+		<date>20221130</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">62</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p10703384_b_v13_am.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01906276&amp;tmsId=EP019062761384</url>
+		<episode-num system="common">S08E43</episode-num>
+		<episode-num system="dd_progid">EP01906276.1384</episode-num>
+		<episode-num system="xmltv_ns">7.42.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221129233700 -0600" stop="20221130003700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Late Late Show With James Corden</title>
+		<sub-title lang="en">Chloë Grace Moretz; Glen Powell; Reneé Rapp</sub-title>
+		<desc lang="en">Actress Chloë Grace Moretz; actor Glen Powell; Reneé Rapp performs.</desc>
+		<date>20221130</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p11060317_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01995293&amp;tmsId=EP019952931163</url>
+		<episode-num system="common">S08E39</episode-num>
+		<episode-num system="dd_progid">EP01995293.1163</episode-num>
+		<episode-num system="xmltv_ns">7.38.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221130003700 -0600" stop="20221130010700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">A powerful story about a mother/daughter reunion 50 years in the making.</desc>
+		<date>20221129</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913996</url>
+		<episode-num system="dd_progid">EP02748291.3996</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221130010700 -0600" stop="20221130013700 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221130013700 -0600" stop="20221130021200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 10</title>
+		<desc lang="en">Today&apos;s top news stories and a forecast to help plan for the days ahead.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">35</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280636_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573288&amp;tmsId=SH015732880000</url>
+		<episode-num system="dd_progid">SH01573288.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130021200 -0600" stop="20221130024200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00000001&amp;tmsId=SH000000010000</url>
+		<episode-num system="dd_progid">SH00000001.0000</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221130024200 -0600" stop="20221130031200 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">PowerXL Duo Nutrisealer</title>
+		<desc lang="en">Wave Goodbye to Waste and Hello to Freshness with the PowerXL Duo NutriSealer!</desc>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20955231_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04081321&amp;tmsId=SH040813210000</url>
+		<episode-num system="dd_progid">SH04081321.0000</episode-num>
+		<previously-shown />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221130031200 -0600" stop="20221130040000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Overnight News</title>
+		<desc lang="en">National and international headlines from CBS News journalists all around the world, plus stories from the West Coast edition of the &quot;CBS Evening News With Norah O&apos;Donnell.&quot;</desc>
+		<category lang="en">News</category>
+		<length units="minutes">48</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p12135609_b_v9_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02269178&amp;tmsId=SH022691780000</url>
+		<episode-num system="dd_progid">SH02269178.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130040000 -0600" stop="20221130043000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Morning News</title>
+		<desc lang="en">News reports on current events.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p185953_b_v9_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00019131&amp;tmsId=SH000191310000</url>
+		<episode-num system="dd_progid">SH00019131.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130043000 -0600" stop="20221130050000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News First Look</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367305_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160040&amp;tmsId=SH041600400000</url>
+		<episode-num system="dd_progid">SH04160040.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221130050000 -0600" stop="20221130060000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 5A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367349_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160054&amp;tmsId=SH041600540000</url>
+		<episode-num system="dd_progid">SH04160054.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221130060000 -0600" stop="20221130070000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 Morning News 6A</title>
+		<desc lang="en">Houston morning newscast featuring weather and traffic reports on the 1&apos;s. KHOU Stands for Houston.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p21367365_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH04160060&amp;tmsId=SH041600600000</url>
+		<episode-num system="dd_progid">SH04160060.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20221130070000 -0600" stop="20221130090000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Mornings</title>
+		<desc lang="en">Drew Barrymore and Ross Matthews, host and co-host of &quot;The Drew Barrymore Show&quot;; actress Gabrielle Union; Sarah Gelman, Amazon Books editorial director.</desc>
+		<date>20221130</date>
+		<category lang="en">News</category>
+		<length units="minutes">120</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p20589677_b_v13_ad.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03989671&amp;tmsId=EP039896710322</url>
+		<episode-num system="dd_progid">EP03989671.0322</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130090000 -0600" stop="20221130100000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Great Day Houston</title>
+		<desc lang="en">Food, fashion, fitness and fun with celebrity interviews by host Deborah Duncan.</desc>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p709577_b_v13_aa.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00815429&amp;tmsId=SH008154290000</url>
+		<episode-num system="dd_progid">SH00815429.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130100000 -0600" stop="20221130110000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Price Is Right</title>
+		<desc lang="en">Contestants bid for prizes then compete for fabulous showcases.</desc>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183911_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004372&amp;tmsId=EP000043722258</url>
+		<episode-num system="common">S51E14</episode-num>
+		<episode-num system="dd_progid">EP00004372.2258</episode-num>
+		<episode-num system="xmltv_ns">50.13.</episode-num>
+		<previously-shown />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221130110000 -0600" stop="20221130120000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Young and the Restless</title>
+		<desc lang="en">Adam clears the air with Sally; Billy and Lily reach an understanding; Nate questions Elena&apos;s loyalty.</desc>
+		<date>20221130</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183904_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004422&amp;tmsId=EP000044229464</url>
+		<episode-num system="common">S50E42</episode-num>
+		<episode-num system="dd_progid">EP00004422.9464</episode-num>
+		<episode-num system="xmltv_ns">49.41.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221130120000 -0600" stop="20221130123000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at Noon</title>
+		<desc lang="en">Updates on important news of the day and the latest forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280638_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573289&amp;tmsId=SH015732890000</url>
+		<episode-num system="dd_progid">SH01573289.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130123000 -0600" stop="20221130130000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Bold and the Beautiful</title>
+		<desc lang="en">Learning a sordid truth causes a fallout of colossal proportions.</desc>
+		<date>20221130</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p183907_b_v9_ca.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004217&amp;tmsId=EP000042177138</url>
+		<episode-num system="common">S36E45</episode-num>
+		<episode-num system="dd_progid">EP00004217.7138</episode-num>
+		<episode-num system="xmltv_ns">35.44.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221130130000 -0600" stop="20221130140000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The Talk</title>
+		<desc lang="en">Actor Justin Long.</desc>
+		<date>20221130</date>
+		<category lang="en">Talk</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p8217151_b_v13_az.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01307855&amp;tmsId=EP013078552652</url>
+		<episode-num system="common">S13E56</episode-num>
+		<episode-num system="dd_progid">EP01307855.2652</episode-num>
+		<episode-num system="xmltv_ns">12.55.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-14</value>
+		</rating>
+	</programme>
+	<programme start="20221130140000 -0600" stop="20221130150000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Let&apos;s Make a Deal</title>
+		<desc lang="en">Costumed contestants compete for cash and prizes.</desc>
+		<date>20221130</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p7805542_b_v13_ag.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01176132&amp;tmsId=EP011761321983</url>
+		<episode-num system="common">S14E51</episode-num>
+		<episode-num system="dd_progid">EP01176132.1983</episode-num>
+		<episode-num system="xmltv_ns">13.50.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221130150000 -0600" stop="20221130153000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">Darius McCrary (&quot;Family Matters&quot;) discusses working with Jaleel White and Michael Bay of the &quot;Transformers&quot; movies.</desc>
+		<date>20221130</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913991</url>
+		<episode-num system="common">S06E56</episode-num>
+		<episode-num system="dd_progid">EP02748291.3991</episode-num>
+		<episode-num system="xmltv_ns">5.55.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221130153000 -0600" stop="20221130160000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Daily Blast Live</title>
+		<desc lang="en">Darius McCrary (&quot;Family Matters&quot;) discusses working with Jaleel White and Michael Bay of the &quot;Transformers&quot; movies.</desc>
+		<date>20221130</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p14400309_b_v13_ai.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH02748291&amp;tmsId=EP027482913998</url>
+		<episode-num system="dd_progid">EP02748291.3998</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+	<programme start="20221130160000 -0600" stop="20221130170000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">The 411 on KHOU 11</title>
+		<desc lang="en">Today&apos;s top stories and the latest forecast for the Houston area; trending topics from around the country.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p18538522_b_v13_ab.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03558117&amp;tmsId=SH035581170000</url>
+		<episode-num system="dd_progid">SH03558117.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130170000 -0600" stop="20221130173000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 5</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280634_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573286&amp;tmsId=SH015732860000</url>
+		<episode-num system="dd_progid">SH01573286.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130173000 -0600" stop="20221130180000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">CBS Evening News With Norah O&apos;Donnell</title>
+		<desc lang="en">A weeknight survey of major news stories, human-interest segments and interviews with newsmakers, anchored by Norah O&apos;Donnell.</desc>
+		<date>20221130</date>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p17079977_b_v13_ae.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH03258257&amp;tmsId=EP032582570883</url>
+		<episode-num system="dd_progid">EP03258257.0883</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130180000 -0600" stop="20221130183000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">KHOU 11 News at 6</title>
+		<desc lang="en">News from the Houston area that impacts the community and the latest weather forecast.</desc>
+		<category lang="en">News</category>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p9280635_b_v13_ac.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH01573287&amp;tmsId=SH015732870000</url>
+		<episode-num system="dd_progid">SH01573287.0000</episode-num>
+		<new />
+		<subtitles type="teletext" />
+	</programme>
+	<programme start="20221130183000 -0600" stop="20221130190000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Wheel of Fortune</title>
+		<sub-title lang="en">America&apos;s Game</sub-title>
+		<desc lang="en">In a classic game-show version of &quot;Hangman,&quot; contestants solve word puzzles for cash and prizes.</desc>
+		<date>20221201</date>
+		<length units="minutes">30</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p184057_b_v13_ah.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00004762&amp;tmsId=EP000047624210</url>
+		<episode-num system="common">S40E58</episode-num>
+		<episode-num system="dd_progid">EP00004762.4210</episode-num>
+		<episode-num system="xmltv_ns">39.57.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-G</value>
+		</rating>
+	</programme>
+	<programme start="20221130190000 -0600" stop="20221130200000 -0600" channel="I11.10496.zap2it.com">
+		<title lang="en">Survivor</title>
+		<sub-title lang="en">Hiding in Plain Sight</sub-title>
+		<desc lang="en">Castaways inhabit a remote destination and attempt to outwit, outlast and outplay each other for a prize of $1 million.</desc>
+		<date>20221201</date>
+		<length units="minutes">60</length>
+		<icon src="https://zap2it.tmsimg.com/assets/p187348_b_v13_as.jpg" />
+		<url>https://tvlistings.zap2it.com//overview.html?programSeriesId=SH00367078&amp;tmsId=EP003670780729</url>
+		<episode-num system="common">S43E11</episode-num>
+		<episode-num system="dd_progid">EP00367078.0729</episode-num>
+		<episode-num system="xmltv_ns">42.10.</episode-num>
+		<new />
+		<subtitles type="teletext" />
+		<rating>
+			<value>TV-PG</value>
+		</rating>
+	</programme>
+</tv>
