@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBCEast.us" tvg-name="NBC Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png" group-title="Tv",Nbc Houston
+#EXTINF:-1 tvg-id="NBCEast.us" tvg-name="NBC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png" group-title="Tv",Nbc Houston
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/218852.m3u8
-#EXTINF:-1 tvg-id="FoxEast.us" tvg-name="FOX Houston" tvg-logo="https://www.clasesdeperiodismo.com/wp-content/uploads/2017/06/foxnews.jpg" group-title="Tv",Fox Houston
+#EXTINF:-1 tvg-id="FoxEast.us" tvg-name="Fox East" tvg-logo="https://www.clasesdeperiodismo.com/wp-content/uploads/2017/06/foxnews.jpg" group-title="Tv",Fox Houston
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/218952.m3u8
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-name="Univision Houston" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Houston-en-vivo-Online.png" group-title="Tv",Univision Houston
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-name="Univision Eas" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Univisi%C3%B3n-Houston-en-vivo-Online.png" group-title="Tv",Univision Houston
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/218023.m3u8
-#EXTINF:-1 tvg-id="CBSEast.us" tvg-name="CBS Houston" tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Emblem.png" group-title="Tv",Cbs Houston
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-name="CBS East" tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Emblem.png" group-title="Tv",Cbs Houston
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/219036.m3u8
-#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="ABC Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/640px-ABC-2021-LOGO.svg.png" group-title="Tv",Abc Houston
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="KABC-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/640px-ABC-2021-LOGO.svg.png" group-title="Tv",Abc Houston
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/214725.m3u8
-#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-name="TELEMUNDO KTMD Houston" tvg-logo="https://pbs.twimg.com/profile_images/1470674715341725696/GM_KueVJ_400x400.jpg" group-title="Tv",Telemundo Houston
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-name="Telemundo East" tvg-logo="https://pbs.twimg.com/profile_images/1470674715341725696/GM_KueVJ_400x400.jpg" group-title="Tv",Telemundo Houston
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/218224.m3u8
-#EXTINF:-1 tvg-id="IONTVEast.us" tvg-name="Ion" tvg-logo="http://myportal.live:8080/images/fd1b27efc5e556d243e2a88ee8a2e5d5.png" group-title="Tv",Ion
+#EXTINF:-1 tvg-id="IONTVEast.us" tvg-name="ION TV East" tvg-logo="http://myportal.live:8080/images/fd1b27efc5e556d243e2a88ee8a2e5d5.png" group-title="Tv",Ion
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/196107.m3u8
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV Houston" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.IXYoP4IgsMOrMY0C_4CnuwHaDt%26pid%3DApif=1ipt=7a95036c655e80a1c878ebfa4487c191f0df51dedc0d6159631f6c3197a0223cipo=images" group-title="Tv",MeTV Houston
 http://ingrid.ltd:25461/chtobon/5040803559/174545
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS HD" tvg-logo="http://fanc.tmsimg.com/assets/s58515_ll_h3_ac.png" group-title="Tv",Tbs HD
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS East" tvg-logo="http://fanc.tmsimg.com/assets/s58515_ll_h3_ac.png" group-title="Tv",Tbs HD
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/196057.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-name="BBC America HD" tvg-logo="http://static.epgguide.net/icon/bbcamerica.us.png" group-title="Tv",BBC America HD
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-name="BBC America East" tvg-logo="http://static.epgguide.net/icon/bbcamerica.us.png" group-title="Tv",BBC America HD
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/195206.m3u8
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="Usa Network" tvg-logo="http://fanc.tmsimg.com/assets/s58452_ll_h3_ae.png" group-title="Tv",Usa Network
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network East" tvg-logo="http://fanc.tmsimg.com/assets/s58452_ll_h3_ae.png" group-title="Tv",Usa Network
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/196214.m3u8
-#EXTINF:-1 tvg-id="FXXEast.us" tvg-name="US: FXX HD" tvg-logo="http://fanc.tmsimg.com/assets/s66379_ll_h3_aa.png" group-title="Tv",Fxx HD
+#EXTINF:-1 tvg-id="FXXEast.us" tvg-name="FXX East" tvg-logo="http://fanc.tmsimg.com/assets/s66379_ll_h3_aa.png" group-title="Tv",Fxx HD
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/195992.m3u8
-#EXTINF:-1 tvg-id="FXEast.us" tvg-name="US: FX HD" tvg-logo="http://fanc.tmsimg.com/assets/s73682_ll_h3_aa.png" group-title="Tv",Fx HD
+#EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX East" tvg-logo="http://fanc.tmsimg.com/assets/s73682_ll_h3_aa.png" group-title="Tv",Fx HD
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/195989.m3u8
-#EXTINF:-1 tvg-id="AEEast.us" tvg-name="AE HD" tvg-logo="http://fanc.tmsimg.com/assets/s10035_h3_aa.png" group-title="Tv",AE HD
+#EXTINF:-1 tvg-id="AEEast.us" tvg-name="A&amp;E East" tvg-logo="http://fanc.tmsimg.com/assets/s10035_h3_aa.png" group-title="Tv",AE HD
 http://tvsinlimites.ddns.net:8080/asdfghj2/qwer0987/195972.m3u8
