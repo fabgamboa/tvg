@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-logo="https://i.imgur.com/ocs2DeU.png" group-title="Entertainment",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="Music",CMT East
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Catchy_Comedy_logo.svg" group-title="Entertainment",Catchy Comedy
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
 #EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Nbc",NBC 6 Miami FL
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-id="WJAR-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png" group-title="Nbc",NBC 10 Providence MA
@@ -27,6 +33,7 @@ https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 #EXTINF:-1 tvg-id="KYOU-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Nbc",Nbc Kirksville MO
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Nfl",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
