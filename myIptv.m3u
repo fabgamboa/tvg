@@ -5,7 +5,7 @@ https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
 https://fl1.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Catchy_Comedy_logo.svg" group-title="Entertainment",Catchy Comedy
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
-#EXTINF:-1 tvg-id="WJLP-DT.us_locals1" tvg-logo="https://i.imgur.com/MfLl1HS.png" group-title="Undefined",MeTV
+#EXTINF:-1 tvg-id="WJLP-DT.us_locals1" tvg-logo="https://i.imgur.com/MfLl1HS.png" group-title="Entertainment",MeTV
 https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
 #EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Nbc",NBC 6 Miami FL
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
@@ -19,7 +19,7 @@ https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 #EXTINF:-1 tvg-id="KOMU-DT.us_locals1" tvg-logo="" group-title="Nbc",NBC Columbia MO
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovgIthNmn9MgjbnrOV5Y_1fY8XLnmADvmGGUlACeIClMVnUaiTwBhYvyo0vKn4RQAfBk&usqp=CAU" group-title="Entertainment",KSAN-DT3
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovgIthNmn9MgjbnrOV5Y_1fY8XLnmADvmGGUlACeIClMVnUaiTwBhYvyo0vKn4RQAfBk&usqp=CAU" group-title="Entertainment",Bounce
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="KSAZ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Fox",Fox 10 Phoenix AZ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
