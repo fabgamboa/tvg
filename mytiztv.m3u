@@ -18,7 +18,7 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1, tvg-id="Bravo.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/800px-Bravo_2024.svg.png" tvg-name="Bravo"  group-title="Entertainment",Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1, tvg-id="CMT.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/800px-CMT_2017_logo.svg.png" tvg-name="CMT"  group-title="Entertainment",CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
+https://fl1.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1, tvg-id="CHARGE!.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" tvg-name="Charge!"  group-title="Entertainment",Charge!
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 #EXTINF:-1, tvg-id="Comet.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Comet_logo.svg" tvg-name="Comet Tv"  group-title="Entertainment",Comet Tv
