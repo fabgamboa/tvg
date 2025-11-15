@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columnbia MO
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/KRCG_2016.svg/800px-KRCG_2016.svg.png" tvg-name="CBS KRCG"  group-title="Cbs",CBS Columnbia MO
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/KOMU-DT3_2024.svg/1024px-KOMU-DT3_2024.svg.png" tvg-name="CW KOMU"  group-title="CW",CW Columnbia MO
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1, tvg-id="KOMU-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KOMU_2023.svg" tvg-name="NBC KOMU"  group-title="Nbc",NBC Columnbia MO
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1, tvg-id="AMC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" tvg-name="AMC"  group-title="Entertainment",AMC
+https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1, tvg-id="CHARGE!.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" tvg-name="Charge!"  group-title="Entertainment",Charge!
+https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
+#EXTINF:-1, tvg-id="Comet.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Comet_logo.svg" tvg-name="Comet Tv"  group-title="Entertainment",Comet Tv
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+#EXTINF:-1, tvg-id="Me.TV.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/MeTV_Logo.svg" tvg-name="MeTV"  group-title="Entertainment",MeTV Kansas City MO
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:-1, tvg-id="Me.TV.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/MeTV_Logo.svg" tvg-name="MeTV"  group-title="Entertainment",MeTV Columnbia MO
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+#EXTINF:-1, tvg-id="KQFX-LD.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/KQFX_FOX_22_logo.webp" tvg-name="Fox Columbia MO"  group-title="Fox",FOX Columnbia MO
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
