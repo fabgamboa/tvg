@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Nbc",NBC 6 Miami FL
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-id="WJAR-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png" group-title="Nbc",NBC 10 Providence MA
+https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://i.imgur.com/RZ8pIKe.png" tvg-shift="-3" group-title="Latin",NBC Universo West (720p)
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="KNSD-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Nbc",NBC San Diego
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Nbc",NBC Los Angeles
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
+#EXTINF:-1 tvg-id="KOMU-DT.us_locals1" tvg-logo="" group-title="Nbc",NBC Columbia MO
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovgIthNmn9MgjbnrOV5Y_1fY8XLnmADvmGGUlACeIClMVnUaiTwBhYvyo0vKn4RQAfBk&usqp=CAU" group-title="Entertainment",KSAN-DT3
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/BOUNCE/index.m3u8
+#EXTINF:-1 tvg-id="KSAZ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Fox",Fox 10 Phoenix AZ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KTBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Fox",Fox 7 Austin TX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KTTVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Fox",Fox Los Angeles CA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVO-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="Abc",ABC Kirksville MO
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 tvg-id="KTVO-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="Abc",ABC Pittsburgh PA
+https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
+#EXTINF:-1 tvg-id="KRCG-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Cbs",CBS Kirksville MO
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+#EXTINF:-1 tvg-id="KYOU-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Nbc",Nbc Kirksville MO
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Nfl",NFL Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="Nfl",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="Nfl",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket1.us@SD" tvg-logo="https://i.imgur.com/OhHxZrE.png" group-title="Nfl",NFL Sunday Ticket 1
+http://fl2.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket2.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 2
+http://fl2.moveonjoy.com/NFL_2/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket3.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 3
+http://fl2.moveonjoy.com/NFL_3/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket4.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 4
+http://fl2.moveonjoy.com/NFL_4/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket5.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 5
+http://fl2.moveonjoy.com/NFL_5/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket6.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 6
+http://fl2.moveonjoy.com/NFL_6/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket7.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 7
+http://fl2.moveonjoy.com/NFL_7/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket8.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 8
+http://fl2.moveonjoy.com/NFL_8/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket9.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 9
+http://fl2.moveonjoy.com/NFL_9/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket10.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 10
+http://fl2.moveonjoy.com/NFL_10/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket11.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 11
+http://fl2.moveonjoy.com/NFL_11/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket12.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 12
+http://fl2.moveonjoy.com/NFL_12/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket13.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 13
+http://fl2.moveonjoy.com/NFL_13/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket14.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 14
+http://fl2.moveonjoy.com/NFL_14/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket15.us@SD" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Nfl",NFL Sunday Ticket 15
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
