@@ -1,21 +1,27 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columnbia MO
+#EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columbia MO
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/KRCG_2016.svg/800px-KRCG_2016.svg.png" tvg-name="CBS KRCG"  group-title="Cbs",CBS Columnbia MO
+#EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/KRCG_2016.svg/800px-KRCG_2016.svg.png" tvg-name="CBS KRCG"  group-title="Cbs",CBS Columbia MO
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/KOMU-DT3_2024.svg/1024px-KOMU-DT3_2024.svg.png" tvg-name="CW KOMU"  group-title="CW",CW Columnbia MO
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/KOMU-DT3_2024.svg/1024px-KOMU-DT3_2024.svg.png" tvg-name="CW KOMU" group-title="CW",CW Columbia MO
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1, tvg-id="KOMU-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KOMU_2023.svg" tvg-name="NBC KOMU"  group-title="Nbc",NBC Columnbia MO
+#EXTINF:-1, tvg-id="KOMU-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KOMU_2023.svg" tvg-name="NBC KOMU"  group-title="Nbc",NBC Columbia MO
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1, tvg-id="A.and.E.HD.East.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" tvg-name="A&E"  group-title="Entertainment",A&E
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12793
 #EXTINF:-1, tvg-id="AMC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" tvg-name="AMC"  group-title="Entertainment",AMC
 https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1, tvg-id="AMC+.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" tvg-name="AMC+"  group-title="Entertainment",AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1, tvg-id="BBC.America.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" tvg-name="BBC America"  group-title="Entertainment",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1, tvg-id="CHARGE!.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" tvg-name="Charge!"  group-title="Entertainment",Charge!
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 #EXTINF:-1, tvg-id="Comet.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Comet_logo.svg" tvg-name="Comet Tv"  group-title="Entertainment",Comet Tv
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 #EXTINF:-1, tvg-id="Me.TV.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/MeTV_Logo.svg" tvg-name="MeTV"  group-title="Entertainment",MeTV Kansas City MO
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-1, tvg-id="Me.TV.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/MeTV_Logo.svg" tvg-name="MeTV"  group-title="Entertainment",MeTV Columnbia MO
+#EXTINF:-1, tvg-id="Me.TV.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/MeTV_Logo.svg" tvg-name="MeTV"  group-title="Entertainment",MeTV Columbia MO
 https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
-#EXTINF:-1, tvg-id="KQFX-LD.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/KQFX_FOX_22_logo.webp" tvg-name="Fox Columbia MO"  group-title="Fox",FOX Columnbia MO
+#EXTINF:-1, tvg-id="KQFX-LD.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/KQFX_FOX_22_logo.webp" tvg-name="Fox Columbia MO"  group-title="Fox",FOX Columbia MO
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
