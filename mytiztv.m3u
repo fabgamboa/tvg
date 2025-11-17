@@ -30,7 +30,7 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 #EXTINF:-1, tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/AWE_Logo_platinum.jpg" tvg-name="AWE"  group-title="Entertainment",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1, tvg-id="BBC.America.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/BBC_America_logo_2021.png" tvg-name="BBC America"  group-title="Entertainment",BBC America
-https://tvpass.org/live/BBCAmericaEast/hd
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1, tvg-id="Bravo.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Bravo_2024.svg.png" tvg-name="Bravo"  group-title="Entertainment",Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1, tvg-id="CHARGE!.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Charge_Logo_2020.png" tvg-name="Charge!"  group-title="Entertainment",Charge!

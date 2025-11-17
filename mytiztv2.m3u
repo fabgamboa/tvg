@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/fw5wthf6xlutv1e7xrzqo/merged.xmltv.gz?rlkey=3korwd9jq0ow8p677d91x1314&st=m7o1h7du&dl=1"
 #EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columbia MO
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KRCG_2016.png" tvg-name="CBS KRCG"  group-title="Cbs",CBS Columbia MO
