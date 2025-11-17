@@ -13,6 +13,10 @@ https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1, tvg-id="Bounce.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Bounce_TV_logo.svg" tvg-name="BounceTV 38.2 Kansas City MO"  group-title="Local Entertainment",BounceTV 38.2 Kansas City MO
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1, tvg-id="Grit.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/GRIT_TV_Logo.svg" tvg-name="GritTv 41.2 Kansas City MO"  group-title="Local Entertainment",GritTv 41.2 Kansas City MO
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+#EXTINF:-1, tvg-id="Laff.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" tvg-name="LaffTv 41.3 Kansas City MO"  group-title="Local Entertainment",LaffTv 41.3 Kansas City MO
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 #EXTINF:-1, tvg-id="A.and.E.HD.East.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" tvg-name="A&E"  group-title="Entertainment",A&E
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12793
 #EXTINF:-1, tvg-id="AMC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" tvg-name="AMC"  group-title="Entertainment",AMC
@@ -43,3 +47,5 @@ https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 #EXTINF:-1, tvg-id="KCWE-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/KCWE_2024.svg" tvg-name="CW 29 Kansas City MO"  group-title="CW",CW 29 Kansas City MO
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1, tvg-id="KSHB-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/KSHB-TV_logo.svg" tvg-name="NBC 41.1 Kansas City MO"  group-title="Nbc",NBC 41.1 Kansas City MO
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
