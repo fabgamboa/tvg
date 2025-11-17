@@ -7,8 +7,12 @@ https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1, tvg-id="KOMU-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/KOMU_2023.svg" tvg-name="NBC KOMU"  group-title="Nbc",NBC Columbia MO
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1, tvg-id="Antenna.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" tvg-name="Antenna TV"  group-title="Local Entertainment",Antenna TV
+#EXTINF:-1, tvg-id="Antenna.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" tvg-name="Antenna TV"  group-title="Local Entertainment",Antenna TV Kansas City MO
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:-1, tvg-id="KMCI-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/KMCI_The_Spot_-_Kansas_City_38_%282025%29.svg" tvg-name="The Spot 38.1 Kansas City MO"  group-title="Local Entertainment",The Spot 38.1 Kansas City MO
+https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
+#EXTINF:-1, tvg-id="Bounce.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Bounce_TV_logo.svg" tvg-name="BounceTV 38.2 Kansas City MO"  group-title="Local Entertainment",BounceTV 38.2 Kansas City MO
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 #EXTINF:-1, tvg-id="A.and.E.HD.East.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" tvg-name="A&E"  group-title="Entertainment",A&E
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12793
 #EXTINF:-1, tvg-id="AMC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" tvg-name="AMC"  group-title="Entertainment",AMC
@@ -33,3 +37,9 @@ https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1, tvg-id="WDAF-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/WDAF_2_%282007%29.svg" tvg-name="FOX 4 Kansas City MO"  group-title="Fox",FOX 4 Kansas City MO
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1, tvg-id="KCTV-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/KCTV_icon_%282024%29.svg" tvg-name="CBS 5 Kansas City MO"  group-title="Cbs",CBS 5 Kansas City MO
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+#EXTINF:-1, tvg-id="KMBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/KMBC_9_ABC.svg" tvg-name="ABC 9 Kansas City MO"  group-title="Abc",ABC 9 Kansas City MO
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1, tvg-id="KCWE-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/KCWE_2024.svg" tvg-name="CW 29 Kansas City MO"  group-title="CW",CW 29 Kansas City MO
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
