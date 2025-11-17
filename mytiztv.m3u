@@ -27,12 +27,34 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12793
 https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="AMC+.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/AMC%2B_logo.png" tvg-name="AMC+"  group-title="Entertainment",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1, tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/AWE_Logo_platinum.jpg" tvg-name="AWE"  group-title="Entertainment",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1, tvg-id="BBC.America.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/BBC_America_logo_2021.png" tvg-name="BBC America"  group-title="Entertainment",BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+https://tvpass.org/live/BBCAmericaEast/hd
 #EXTINF:-1, tvg-id="Bravo.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Bravo_2024.svg.png" tvg-name="Bravo"  group-title="Entertainment",Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1, tvg-id="CMT.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CMT_2017_logo.svg.png" tvg-name="CMT"  group-title="Entertainment",CMT
 https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1, tvg-id="Catchy.Comedy.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Comedy_Central_2018.png" tvg-name="CMT"  group-title="Entertainment",Comedy Central
+https://tvpass.org/live/ComedyCentralEast/hd
+#EXTINF:-1, tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/E_Logo_Flat_2012.png" tvg-name="E!"  group-title="Entertainment",E!
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1, tvg-id="Freeform.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Freeform_2022.png" tvg-name="Freeform"  group-title="Entertainment",Freeform
+https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1, tvg-id="Fuse.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Fuse_Black_Logo_2017.png" tvg-name="Fuse TV"  group-title="Entertainment",Fuse TV
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1, tvg-id="FX.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/FX_International_logo.png" tvg-name="FX"  group-title="Entertainment",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1, tvg-id="FXX.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/FXX_Logo.png" tvg-name="FXX"  group-title="Entertainment",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1, tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Hallmark_Channel_2022_logo.png" tvg-name="Hallmark Channel"  group-title="Entertainment",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1, tvg-id="Hallmark.Family.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Hallmark_Channel_2022_logo.png" tvg-name="Hallmark Family"  group-title="Entertainment",Hallmark Family
+https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1, tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Hallmark_Mystery_2024.png" tvg-name="Hallmark Mistery"  group-title="Entertainment",Hallmark Mystery
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1, tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/HGTV_2010.png" tvg-name="HGTV"  group-title="Entertainment",HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1, tvg-id="CHARGE!.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Charge_Logo_2020.png" tvg-name="Charge!"  group-title="Entertainment",Charge!
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 #EXTINF:-1, tvg-id="Comet.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Comet_logo.png" tvg-name="Comet Tv"  group-title="Entertainment",Comet Tv
@@ -67,7 +89,7 @@ https://tvpass.org/live/NFLRedZone/hd
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1, tvg-id="MLB.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/MLBNetworkLogo.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
 https://tvpass.org/live/MLBNetwork/hd
-#EXTINF:-1, tvg-id="TSN.1.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN.png" tvg-name="TSN 1"  group-title="Sports",TSN 1#EXTINF:-1, tvg-id="TSN.1.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/" tvg-name="TSN 2"  group-title="Sports",TSN 1
+#EXTINF:-1, tvg-id="TSN.1.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN.png" tvg-name="TSN 1"  group-title="Sports",TSN
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1, tvg-id="TSN.2.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN2.png" tvg-name="TSN 2"  group-title="Sports",TSN 2
 https://tvpass.org/live/tsn2/hd
