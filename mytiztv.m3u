@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columbia MO
+#EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columbia MO
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/KRCG_2016.svg/800px-KRCG_2016.svg.png" tvg-name="CBS KRCG"  group-title="Cbs",CBS Columbia MO
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
@@ -47,7 +47,7 @@ https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 #EXTINF:-1, tvg-id="KCTV-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/KCTV_icon_%282024%29.svg" tvg-name="CBS 5 Kansas City MO"  group-title="Cbs",CBS 5 Kansas City MO
 https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
-#EXTINF:-1, tvg-id="KMBC-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/KMBC_9_ABC.svg" tvg-name="ABC 9 Kansas City MO"  group-title="Abc",ABC 9 Kansas City MO
+#EXTINF:-1, tvg-id="KMBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KMBC_9_ABC.svg" tvg-name="ABC 9 Kansas City MO"  group-title="Abc",ABC 9 Kansas City MO
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 #EXTINF:-1, tvg-id="KCWE-DT.us_locals1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/KCWE_2024.svg" tvg-name="CW 29 Kansas City MO"  group-title="CW",CW 29 Kansas City MO
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
