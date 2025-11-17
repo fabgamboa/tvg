@@ -53,3 +53,27 @@ https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1, tvg-id="KSHB-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KSHB-TV_logo.png" tvg-name="NBC 41.1 Kansas City MO"  group-title="Nbc",NBC 41.1 Kansas City MO
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1, tvg-id="ESPN.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ESPN_wordmark.png" tvg-name="ESPN"  group-title="Sports",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1, tvg-id="ESPN2.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ESPN2_logo.png" tvg-name="ESPN 2"  group-title="Sports",ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1, tvg-id="ESPNU.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ESPN_U_logo.png" tvg-name="ESPN U"  group-title="Sports",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1, tvg-id="NFL.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/NFL_Network_logo.png" tvg-name="NFL Network"  group-title="Sports",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1, tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/NFL_Network_Redzone.png" tvg-name="NFL RedZone"  group-title="Sports",NFL RedZone
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1, tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/2015_Fox_Sports_1_logo.png" tvg-name="Fox Sports 1"  group-title="Sports",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1, tvg-id="MLB.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/MLBNetworkLogo.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
+https://tvpass.org/live/MLBNetwork/hd
+#EXTINF:-1, tvg-id="TSN.1.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN.png" tvg-name="TSN 1"  group-title="Sports",TSN 1#EXTINF:-1, tvg-id="TSN.1.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/" tvg-name="TSN 2"  group-title="Sports",TSN 1
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1, tvg-id="TSN.2.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN2.png" tvg-name="TSN 2"  group-title="Sports",TSN 2
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1, tvg-id="TSN.3.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN3.png" tvg-name="TSN 3"  group-title="Sports",TSN 3
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1, tvg-id="TSN.4.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN4.png" tvg-name="TSN 4"  group-title="Sports",TSN 4
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1, tvg-id="TSN.5.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN5.png" tvg-name="TSN 5"  group-title="Sports",TSN 5
+https://tvpass.org/live/tsn5/hd
