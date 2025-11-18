@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="WAPT-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC 16 Jackson MS"  group-title="Abc",ABC 16 Jackson MS
+https://livetv-fa.tubi.video/wapt/playlist.m3u8
 #EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columbia MO
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KRCG_2016.png" tvg-name="CBS KRCG"  group-title="Cbs",CBS Columbia MO
@@ -9,6 +11,8 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1, tvg-id="Antenna.TV.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Antenna_TV_2022_logo.png" tvg-name="Antenna TV"  group-title="Local Entertainment",Antenna TV Kansas City MO
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:-1, tvg-id="Antenna.TV.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Antenna_TV_2022_logo.png" tvg-name="Antenna TV"  group-title="Local Entertainment",Antenna TV Kansas City MO
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
 #EXTINF:-1, tvg-id="KMCI-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KMCI_The_Spot_-_Kansas_City_38_2025.png" tvg-name="The Spot 38.1 Kansas City MO"  group-title="Local Entertainment",The Spot 38.1 Kansas City MO
 https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1, tvg-id="Bounce.TV.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Bounce_TV_logo.png" tvg-name="BounceTV 38.2 Kansas City MO"  group-title="Local Entertainment",BounceTV 38.2 Kansas City MO
@@ -27,12 +31,18 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12793
 https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="AMC+.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/AMC%2B_logo.png" tvg-name="AMC+"  group-title="Entertainment",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1, tvg-id="ASPiRE.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Aspire_tv.png" tvg-name="Aspire"  group-title="Entertainment",Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1, tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/AWE_Logo_platinum.jpg" tvg-name="AWE"  group-title="Entertainment",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1, tvg-id="AXS.TV.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/AXS_TV_logo.svg.png" tvg-name="AXS Tv"  group-title="Entertainment",AXS Tv
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1, tvg-id="BBC.America.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/BBC_America_logo_2021.png" tvg-name="BBC America"  group-title="Entertainment",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1, tvg-id="Bravo.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Bravo_2024.svg.png" tvg-name="Bravo"  group-title="Entertainment",Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1, tvg-id="BUZZR.Stream.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Buzzr_logo.svg.png" tvg-name="Buzzr"  group-title="Entertainment",Buzzr
+https://fl1.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1, tvg-id="CHARGE!.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Charge_Logo_2020.png" tvg-name="Charge!"  group-title="Entertainment",Charge!
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 #EXTINF:-1, tvg-id="CMT.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CMT_2017_logo.svg.png" tvg-name="CMT"  group-title="Entertainment",CMT
@@ -46,11 +56,13 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1, tvg-id="Freeform.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Freeform_2022.png" tvg-name="Freeform"  group-title="Entertainment",Freeform
 https://tvpass.org/live/FreeformEast/hd
 #EXTINF:-1, tvg-id="Fuse.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Fuse_Black_Logo_2017.png" tvg-name="Fuse TV"  group-title="Entertainment",Fuse TV
-https://tvpass.org/live/FuseEast/hd
+https://fl1.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1, tvg-id="FX.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/FX_International_logo.png" tvg-name="FX"  group-title="Entertainment",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1, tvg-id="FXX.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/FXX_Logo.png" tvg-name="FXX"  group-title="Entertainment",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1, tvg-id="Galavision.Cable.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Galavision_Logo_2024.svg.png" tvg-name="Galavision"  group-title="Entertainment",Galavision
+http://104.238.205.28:8989/278705_.m3u8
 #EXTINF:-1, tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Hallmark_Channel_2022_logo.png" tvg-name="Hallmark Channel"  group-title="Entertainment",Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1, tvg-id="Hallmark.Family.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Hallmark_Channel_2022_logo.png" tvg-name="Hallmark Family"  group-title="Entertainment",Hallmark Family
@@ -82,11 +94,11 @@ http://fl2.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1, tvg-id="Oxygen.True.Crime.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Oxygen_TV_2017_Logo.png" tvg-name="Oxygen"  group-title="Entertainment",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1, tvg-id="ReelzChannel.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Reelz.png" tvg-name="Reelz"  group-title="Entertainment",Reelz
-https://tvpass.org/live/Reelz/hd
+https://fl1.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1, tvg-id="SundanceTV.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Sundance_TV_Logo.png" tvg-name="Sundance"  group-title="Entertainment",Sundance
-https://tvpass.org/live/SundanceTVEast/hd
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1, tvg-id="Syfy.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/SYFY.png" tvg-name="SyFy"  group-title="Entertainment",SyFy
-https://tvpass.org/live/SyfyEast/hd
+https://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1, tvg-id="TBS.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TBS_2020.png" tvg-name="TBS"  group-title="Entertainment",TBS
 https://tvpass.org/live/TBSEast/hd
 #EXTINF:-1, tvg-id="Turner.Classic.Movies.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TCM_2021.png" tvg-name="TCM"  group-title="Entertainment",TCM
@@ -101,12 +113,14 @@ http://fl2.moveonjoy.com/TNT/index.m3u8
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1, tvg-id="TV.Land.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TV_Land_2015_logo.png" tvg-name="TV Land"  group-title="Entertainment",TV Land
 https://tvpass.org/live/tv-land-eastern/hd
+#EXTINF:-1, tvg-id="TV.Land.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TVLandClassic.png" tvg-name="TV Land Classic"  group-title="Entertainment",TV Land Classic
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:-1, tvg-id="TV.ONE.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TV-One-logo-2016.png" tvg-name="TV One"  group-title="Entertainment",TV One
-https://tvpass.org/live/TVOne/hd
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1, tvg-id="WXTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Logo_Univision_2019.png" tvg-name="Univision East"  group-title="Entertainment",Univision East
 https://tvpass.org/live/UnivisionEast/hd
 #EXTINF:-1, tvg-id="USA.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/USA_Network_2020.png" tvg-name="USA Network"  group-title="Entertainment",USA Network
-https://tvpass.org/live/USANetworkEast/hd
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="VH1.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/VH1_logo.png" tvg-name="VH1"  group-title="Entertainment",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1, tvg-id="Vice.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Vice_TV_logo.png" tvg-name="Vice"  group-title="Entertainment",Vice
@@ -114,7 +128,7 @@ https://tvpass.org/live/VICETV/hd
 #EXTINF:-1, tvg-id="W.Network.HD.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/W_Network_Logo.png" tvg-name="W Network"  group-title="Entertainment",W Network
 http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="WE.tv.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Wetv-july-2024-logo.png" tvg-name="WE"  group-title="Entertainment",WE
-https://tvpass.org/live/WeTVEast/hd
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1, tvg-id="KQFX-LD.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KQFX_FOX_22_logo.webp" tvg-name="Fox 22 Columbia MO"  group-title="Fox",FOX 22 Columbia MO
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1, tvg-id="WDAF-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WDAF_2_2007.png" tvg-name="FOX 4 Kansas City MO"  group-title="Fox",FOX 4 Kansas City MO
@@ -127,12 +141,20 @@ https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1, tvg-id="KSHB-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KSHB-TV_logo.png" tvg-name="NBC 41.1 Kansas City MO"  group-title="Nbc",NBC 41.1 Kansas City MO
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1, tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Bein_Sports_Logo.svg.png" tvg-name="beIN Sports US"  group-title="Sports",beIN Sports US
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1, tvg-id="ESPN.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ESPN_wordmark.png" tvg-name="ESPN"  group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1, tvg-id="ESPN2.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ESPN2_logo.png" tvg-name="ESPN 2"  group-title="Sports",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1, tvg-id="ESPNU.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ESPN_U_logo.png" tvg-name="ESPN U"  group-title="Sports",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1, tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ESPN_Deportes.svg.png" tvg-name="ESPN Deportes"  group-title="Sports",ESPN Deportes
+https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+#EXTINF:-1, tvg-id="ESPNEWS.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/" tvg-name="ESPN News"  group-title="Sports",ESPN News
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/FifaTv.png" tvg-name="FIFA+ Unite States"  group-title="Sports",FIFA+ Unite States
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1, tvg-id="NFL.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/NFL_Network_logo.png" tvg-name="NFL Network"  group-title="Sports",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/NFL_Network_Redzone.png" tvg-name="NFL RedZone"  group-title="Sports",NFL RedZone
@@ -140,14 +162,14 @@ https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1, tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/2015_Fox_Sports_1_logo.png" tvg-name="Fox Sports 1"  group-title="Sports",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1, tvg-id="MLB.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/MLBNetworkLogo.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
-https://tvpass.org/live/MLBNetwork/hd
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="TSN.1.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN.png" tvg-name="TSN 1"  group-title="Sports",TSN
-https://tvpass.org/live/tsn1/hd
+https://fl1.moveonjoy.com/TSN/index.m3u8
 #EXTINF:-1, tvg-id="TSN.2.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN2.png" tvg-name="TSN 2"  group-title="Sports",TSN 2
-https://tvpass.org/live/tsn2/hd
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1, tvg-id="TSN.3.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN3.png" tvg-name="TSN 3"  group-title="Sports",TSN 3
-https://tvpass.org/live/tsn3/hd
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, tvg-id="TSN.4.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN4.png" tvg-name="TSN 4"  group-title="Sports",TSN 4
 https://tvpass.org/live/tsn4/hd
 #EXTINF:-1, tvg-id="TSN.5.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/TSN5.png" tvg-name="TSN 5"  group-title="Sports",TSN 5
-https://tvpass.org/live/tsn5/hd
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
