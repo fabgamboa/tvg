@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="WAPT-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC 16 Jackson MS"  group-title="Abc",ABC 16 Jackson MS
-https://livetv-fa.tubi.video/wapt/playlist.m3u8
 #EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columbia MO
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KRCG_2016.png" tvg-name="CBS Columbia MO"  group-title="Cbs",CBS Columbia MO
@@ -145,7 +143,7 @@ https://tvpass.org/live/VICETV/hd
 http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="WE.tv.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Wetv-july-2024-logo.png" tvg-name="WE"  group-title="Entertainment",WE
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
-#EXTINF:-1, tvg-id="WAGA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Fts-atlanta-a.svg.png" tvg-name="FOX 5 Atlanta GA"  group-title="Fox",FOX 5 Atlanta GA
+#EXTINF:-1, tvg-id="WAGA-DT.us_locals1f" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Fts-atlanta-a.svg.png" tvg-name="FOX 5 Atlanta GA"  group-title="Fox",FOX 5 Atlanta GA
 https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
 #EXTINF:-1, tvg-id="KQFX-LD.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KQFX_FOX_22_logo.webp" tvg-name="Fox 22 Columbia MO"  group-title="Fox",FOX 22 Columbia MO
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
