@@ -47,7 +47,7 @@ https://fl1.moveonjoy.com/Buzzr/index.m3u8
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 #EXTINF:-1, tvg-id="CMT.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CMT_2017_logo.svg.png" tvg-name="CMT"  group-title="Entertainment",CMT
 https://fl1.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1, tvg-id="Catchy.Comedy.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Comedy_Central_2018.png" tvg-name="Comedy Central"  group-title="Entertainment",Comedy Central
+#EXTINF:-1, tvg-id="Comedy.Central.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Comedy_Central_2018.png" tvg-name="Comedy Central"  group-title="Entertainment",Comedy Central
 https://tvpass.org/live/ComedyCentralEast/hd
 #EXTINF:-1, tvg-id="Comet.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Comet_logo.png" tvg-name="Comet Tv"  group-title="Entertainment",Comet Tv
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
