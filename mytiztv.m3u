@@ -153,8 +153,22 @@ https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 #EXTINF:-1, tvg-id="KMSP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Fts-minneapolis-a.svg.png" tvg-name="FOX 9 Minneapolis-St Paul MN"  group-title="Fox",FOX 9 Minneapolis-St Paul MN
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.
+#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CBS_Chicago_logo.svg.png" group-title="Cbs",CBS Chicago
+https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 #EXTINF:-1, tvg-id="KCTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KCTV_icon_2024.png" tvg-name="CBS 5 Kansas City MO"  group-title="Cbs",CBS 5 Kansas City MO
 https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+#EXTINF:-1, tvg-id="KTVO-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KTVO_3_logo_CBS.png" tvg-name="CBS 3 Kirsville MO"  group-title="Cbs",CBS 3 Kirsville MO
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+#EXTINF:-1, tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CBS_LA_logo.svg.png" tvg-name="CBS 2 Los Angeles CA"  group-title="Cbs",CBS 2 Los Angeles CA
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1, tvg-id="WCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CBS_New_York_logo.svg.png" tvg-name="CBS 2 New York NY"  group-title="Cbs",CBS 2 New York NY
+https://tvpass.org/live/WCBSDT1/hd
+#EXTINF:-1, tvg-id="WKMG-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Wkmg_6.svg.png" tvg-name="CBS 6 Orlando FL"  group-title="Cbs",CBS 6 Orlando FL
+https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
+#EXTINF:-1, tvg-id="KYW-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CBS_Philadelphia_logo.svg.png" tvg-name="CBS 3 Philadelphia PA"  group-title="Cbs",CBS 3 Philadelphia PA
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8
+#EXTINF:-1, tvg-id="WPEC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WPEC_CBS12_solid_calls.svg.png" tvg-name="CBS 12 West Palm Beach FL"  group-title="Cbs",CBS 12 West Palm Beach FL
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 #EXTINF:-1, tvg-id="KMBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KMBC_9_ABC.png" tvg-name="ABC 9 Kansas City MO"  group-title="Abc",ABC 9 Kansas City MO
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 #EXTINF:-1, tvg-id="KCWE-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KCWE_2024.png" tvg-name="CW 29 Kansas City MO"  group-title="CW",CW 29 Kansas City MO
