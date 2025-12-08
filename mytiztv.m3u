@@ -9,6 +9,20 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1, tvg-id="KYOU-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KOMU_2023.png" tvg-name="NBC Kirksville MO"  group-title="Nbc",NBC Kirksville MO
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+#EXTINF:-1, tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/NBC_Peacock.png" tvg-name="NBC East"  group-title="Nbc",NBC East
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1, tvg-id="WMAQ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WMAQ_2023.svg.png" tvg-name="NBC 5 Chicago IL"  group-title="Nbc",NBC 5 Chicago IL
+https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
+#EXTINF:-1, tvg-id="WCAU-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WCAU_2023.svg.png" tvg-name="NBC 10 Philadelphia PA"  group-title="Nbc",NBC 10 Philadelphia PA
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
+#EXTINF:-1, tvg-id="WFLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WFLA-TV_NBC_8_Tampa,_Florida_logo.svg.png" tvg-name="NBC 8 Tampa FL"  group-title="Nbc",NBC 8 Tampa FL
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1, tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WNBC_2023.svg.png" tvg-name="NBC 4 New York NY"  group-title="Nbc",NBC 4 New York NY
+https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, tvg-id="WSMV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WSMV_Logo.webp" tvg-name="NBC 4 Nashville TN"  group-title="Nbc",NBC 4 Nashville TN
+https://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8
+#EXTINF:-1, tvg-id="WTVJ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WTVJ_2023.svg.png" tvg-name="NBC 6 South Florida FL"  group-title="Nbc",NBC 6 South Florida FL
+https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1, tvg-id="Antenna.TV.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Antenna_TV_2022_logo.png" tvg-name="Antenna TV"  group-title="Local Entertainment",Antenna TV Kansas City MO
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1, tvg-id="Antenna.TV.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Antenna_TV_2022_logo.png" tvg-name="Antenna TV"  group-title="Local Entertainment",Antenna TV Kansas City MO
@@ -99,6 +113,8 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1, tvg-id="MuchMusic.Network.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Much_-_2013_logo.png" tvg-name="Much"  group-title="Entertainment",Much
 http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1, tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Universo_2017.svg.png" tvg-name="Nbc Universo West" tvg-shift="-3" group-title="Entertainment",Nbc Universo West
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1, tvg-id="Ovation.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Ovation_Logo.png" tvg-name="Ovation"  group-title="Entertainment",Ovation
 https://fl1.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1, tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/OWN_2011_logo.png" tvg-name="OWN"  group-title="Entertainment",OWN
