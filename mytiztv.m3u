@@ -7,7 +7,7 @@ https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1, tvg-id="KOMU-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KOMU_2023.png" tvg-name="NBC Columbia MO"  group-title="Nbc",NBC Columbia MO
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1, tvg-id="KYOU-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KOMU_2023.png" tvg-name="NBC Kirksville MO"  group-title="Nbc",NBC Kirksville MO
+#EXTINF:-1, tvg-id="WHO-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KYOU_News_logo.svg.png" tvg-name="NBC Kirksville MO"  group-title="Nbc",NBC Kirksville MO
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1, tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/NBC_Peacock.png" tvg-name="NBC East"  group-title="Nbc",NBC East
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
