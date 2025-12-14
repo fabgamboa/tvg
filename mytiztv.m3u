@@ -85,7 +85,7 @@ https://fl1.moveonjoy.com/Buzzr/index.m3u8
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 #EXTINF:-1, tvg-id="CHARGE!.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Charge_Logo_2020.png" tvg-name="Charge!"  group-title="Entertainment",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1, tvg-id="Canal.Cinecanal.(MÃ©xico).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CinecanalLA.png" tvg-name="Cinecanal Este"  group-title="Entertainment",Cinecanal Este
+#EXTINF:-1, tvg-id="Canal.Cinecanal.(México).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CinecanalLA.png" tvg-name="Cinecanal Este"  group-title="Entertainment",Cinecanal Este
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1, tvg-id="CMT.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CMT_2017_logo.svg.png" tvg-name="CMT"  group-title="Entertainment",CMT
 https://fl1.moveonjoy.com/CMT/index.m3u8
