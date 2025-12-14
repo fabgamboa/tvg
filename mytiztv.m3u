@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",ABC Columbia MO
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WABC_TV_New_2021.svg.png" tvg-name="Abc 7 Chicago IL" group-title="Abc",Abc 7 Chicago IL
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+#EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",Abc Columbia MO
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KRCG_2016.png" tvg-name="CBS Columbia MO"  group-title="Cbs",CBS Columbia MO
+#EXTINF:-1, tvg-id="KMBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KMBC_9_ABC.png" tvg-name="ABC 9 Kansas City MO"  group-title="Abc",ABC 9 Kansas City MO
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1 tvg-id="KTVO-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KTVO_3_logo_ABC.svg.png" tvg-name="Abc 3 Kirskville MO" group-title="Abc",Abc 3 Kirskville MO
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 tvg-id="WKRN-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WKRN-TV_svg.png" tvg-name="Abc 2 Nashville TN" group-title="Abc",Abc 2 Nashville TN
+https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WABC_TV_New_2021.svg.png" tvg-name="Abc 7 New York NY" group-title="Abc",Abc 7 New York NY
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl25.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WFTS_Tampa_Bay_28_svg.png" tvg-name="Abc 28 Tampa Bay FL" group-title="Abc",Abc 28 Tampa Bay FL
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KRCG_2016.png" tvg-name="CBS Columbia MO" group-title="Cbs",CBS Columbia MO
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1, tvg-id="CW.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KOMU-DT3_2024.png" tvg-name="CW Columbia MO" group-title="CW",CW Columbia MO
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
@@ -64,7 +76,7 @@ https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 #EXTINF:-1, tvg-id="CMT.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CMT_2017_logo.svg.png" tvg-name="CMT"  group-title="Entertainment",CMT
 https://fl1.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1, tvg-id="Comedy.Central.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Comedy_Central_2018.png" tvg-name="Comedy Central"  group-title="Entertainment",Comedy Central
-https://tvpass.org/live/ComedyCentralEast/hd
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1, tvg-id="Comet.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Comet_logo.png" tvg-name="Comet Tv"  group-title="Entertainment",Comet Tv
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 #EXTINF:-1, tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/E_Logo_Flat_2012.png" tvg-name="E!"  group-title="Entertainment",E!
@@ -193,8 +205,6 @@ https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8
 #EXTINF:-1, tvg-id="WPEC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WPEC_CBS12_solid_calls.svg.png" tvg-name="CBS 12 West Palm Beach FL"  group-title="Cbs",CBS 12 West Palm Beach FL
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
-#EXTINF:-1, tvg-id="KMBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KMBC_9_ABC.png" tvg-name="ABC 9 Kansas City MO"  group-title="Abc",ABC 9 Kansas City MO
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 #EXTINF:-1, tvg-id="KCWE-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KCWE_2024.png" tvg-name="CW 29 Kansas City MO"  group-title="CW",CW 29 Kansas City MO
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1, tvg-id="KSHB-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KSHB-TV_logo.png" tvg-name="NBC 41.1 Kansas City MO"  group-title="Nbc",NBC 41.1 Kansas City MO
