@@ -249,7 +249,7 @@ https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
 #EXTINF:-1, tvg-id="KYOU-DT4.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Ottumwa_Kirksville_CW_15.4_2024_Logo.png" tvg-name="CW 15 Kirksville MO" group-title="CW",CW 15 Kirksville MO
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-#EXTINF:-1, tvg-id="WTTA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WTTA_CW_Tampa_Bay_svg.png" tvg-name="CW 44 Tampa Bay FL"  group-title="CW",CW 44 Tampa Bay FL
+#EXTINF:-1, tvg-id="WTOG-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WTTA_CW_Tampa_Bay_svg.png" tvg-name="CW 44 Tampa Bay FL"  group-title="CW",CW 44 Tampa Bay FL
 https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1, tvg-id="KSHB-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KSHB-TV_logo.png" tvg-name="NBC 41.1 Kansas City MO"  group-title="Nbc",NBC 41.1 Kansas City MO
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
