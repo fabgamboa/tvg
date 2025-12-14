@@ -167,7 +167,7 @@ http://fl1.moveonjoy.com/TBS/index.m3u8
 https://fl2.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1, tvg-id="WNJU-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Telemundo_logo_2018.png" tvg-name="Telemundo East"  group-title="Entertainment",Telemundo East
 https://tvpass.org/live/TelemundoEast/hd
-#EXTINF:-1, tvg-id="WNJU-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Telemundo_logo_2018.png" tvg-name="Telemundo East"  group-title="Entertainment",Telemundo East
+#EXTINF:-1, tvg-id="WBQC-LD.us_locals" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Telemundo_logo_2018.png" tvg-name="Telemundo East"  group-title="Entertainment",Telemundo East
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1, tvg-id="WTMO-CD.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Telemundo_31_svg.png" tvg-name="Telemundo 31 Orlando FL"  group-title="Entertainment",Telemundo 31 Orlando FL
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
