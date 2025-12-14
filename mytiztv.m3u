@@ -93,7 +93,7 @@ https://fl1.moveonjoy.com/CMT/index.m3u8
 https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1, tvg-id="Comet.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Comet_logo.png" tvg-name="Comet Tv"  group-title="Entertainment",Comet Tv
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1, tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Crime_+_Investigation_Logo_10.2019.svg.png" tvg-name="Crime+Investigation"  group-title="Entertainment",Crime+Investigation
+#EXTINF:-1, tvg-id="Crime.Plus.Investigation.SD.ca2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Crime_+_Investigation_Logo_10.2019.svg.png" tvg-name="Crime+Investigation"  group-title="Entertainment",Crime+Investigation
 https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1, tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/E_Logo_Flat_2012.png" tvg-name="E!"  group-title="Entertainment",E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
@@ -107,7 +107,7 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1, tvg-id="Galavision.Cable.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Galavision_Logo_2024.svg.png" tvg-name="Galavision"  group-title="Entertainment",Galavision
 http://104.238.205.28:8989/278705_.m3u8
-#EXTINF:-1, tvg-id="get.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/" tvg-name="GetTV"  group-title="Entertainment",GetTV
+#EXTINF:-1, tvg-id="get.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Get_TV_2023.png" tvg-name="GetTV"  group-title="Entertainment",GetTV
 https://fl1.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1, tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Hallmark_Channel_2022_logo.png" tvg-name="Hallmark Channel"  group-title="Entertainment",Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
