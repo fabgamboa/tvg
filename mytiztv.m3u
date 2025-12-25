@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
+#EXTM3U x-tvg-url="https://a1xs.vip/a1x-epg" tvg-shift=0
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WABC_TV_New_2021.svg.png" tvg-name="Abc 7 Chicago IL" group-title="Abc",Abc 7 Chicago IL
 https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 #EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",Abc Columbia MO
