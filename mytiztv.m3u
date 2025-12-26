@@ -745,3 +745,13 @@ https://a1xs.vip/140004
 https://a1xs.vip/8000011
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://i.ibb.co/M597crs8/Star-select2.png" group-title="World Sports", Star Sports Select 2 FHD
 https://a1xs.vip/8000012
+
+
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Las_Estrellas_logo.png" tvg-name="Las Estrellas" group-title="México",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Foro.TV.mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/NFORO-Thumb-Link.jpg" tvg-name="N+ Foro Tv" group-title="México",N+ Foro Tv
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Azteca_Uno.png" tvg-name="Azteca Uno" group-title="México",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="Azteca.(XHOR).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Logo_Azteca_7.png" tvg-name="Azteca 7" group-title="México",Azteca 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
