@@ -749,6 +749,8 @@ https://a1xs.vip/8000012
 
 #EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Las_Estrellas_logo.png" tvg-name="Las Estrellas" group-title="México",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Las_Estrellas_logo.png" tvg-name="Las Estrellas" group-title="México",Las Estrellas
+http://181.78.106.127:9000/play/ca011/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Foro.TV.mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/NFORO-Thumb-Link.jpg" tvg-name="N+ Foro Tv" group-title="México",N+ Foro Tv
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Azteca_Uno.png" tvg-name="Azteca Uno" group-title="México",Azteca Uno
