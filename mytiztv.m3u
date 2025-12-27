@@ -747,7 +747,7 @@ https://a1xs.vip/8000011
 https://a1xs.vip/8000012
 
 
-#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Las_Estrellas_logo.png" tvg-name="Las Estrellas" group-title="México",Las Estrellas
+#EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-shift="4" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Las_Estrellas_logo.png" tvg-name="Las Estrellas" group-title="México",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Las_Estrellas_logo.png" tvg-name="Las Estrellas" group-title="México",Las Estrellas
 http://181.78.106.127:9000/play/ca011/index.m3u8
@@ -757,3 +757,9 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Azteca.(XHOR).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Logo_Azteca_7.png" tvg-name="Azteca 7" group-title="México",Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal.History.(México).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/History_2021.svg.png" tvg-name="History" group-title="México",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="Canal.History.2.(México).mx" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/History2_logo.png" tvg-name="History 2" group-title="México",History 2
+https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
