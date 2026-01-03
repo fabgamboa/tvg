@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="Imou.Kitchen">
+    <icon src="" />
+    <icon src="" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Kitchen Security Cam Feed</display-name>
+  </channel>
+  <programme channel="Imou.Garage" start="20260102000001 -0500" stop="20260102235999 -0500">
+    <title lang="en">See whats happening in the Kitchen</title>
+    <desc lang="en">Kitchen Security Cam.</desc>
+    <credits>
+      <actor></actor>
+      <actor></actor>
+      <actor></actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Surveillance</category>
+    <previously-shown />
+	<star-rating system="MPAA">
+      <value>10/10</value>
+    </star-rating>
+  </programme>
+</tv>
