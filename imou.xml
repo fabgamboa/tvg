@@ -6,7 +6,7 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Kitchen Security Cam Feed</display-name>
   </channel>
-  <programme channel="Imou.Garage" start="20260102000001 -0500" stop="20260102235999 -0500">
+  <programme channel="Imou.Kitchen" start="20260102000001 -0500" stop="20260102235999 -0500">
     <title lang="en">See whats happening in the Kitchen</title>
     <desc lang="en">Kitchen Security Cam.</desc>
     <credits>
