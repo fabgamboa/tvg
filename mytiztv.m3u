@@ -155,6 +155,8 @@ https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1, tvg-id="ReelzChannel.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Reelz.png" tvg-name="Reelz"  group-title="Entertainment",Reelz
 https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1, tvg-id="WZME-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/images.jfif" tvg-name="Story Television"  group-title="Entertainment",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1, tvg-id="SundanceTV.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Sundance_TV_Logo.png" tvg-name="Sundance"  group-title="Entertainment",Sundance
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1, tvg-id="Syfy.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/SYFY.png" tvg-name="SyFy"  group-title="Entertainment",SyFy
