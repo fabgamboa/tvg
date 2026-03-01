@@ -56,7 +56,7 @@ https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 #EXTINF:-1, tvg-id="Grit.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/GRIT_TV_Logo.png" tvg-name="GritTv 41.2 Kansas City MO"  group-title="Local Entertainment",GritTv 41.2 Kansas City MO
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1, tvg-id="Laff.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/LAFF_logo.png" tvg-name="LaffTv 41.3 Kansas City MO"  group-title="Local Entertainment",LaffTv 41.3 Kansas City MO
-https://dvrfl04.tulix.tv/teleup-laff/mpegts.m3u8
+https://dvrfl04.tulix.tv/teleup-laff/mpegts
 #EXTINF:-1, tvg-id="KPXE-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Ion_logo.png" tvg-name="ION 50.1 Kansas City MO"  group-title="Local Entertainment",ION 50.1 Kansas City MO
 https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 #EXTINF:-1, tvg-id="A.and.E.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/AE_Network_logo.png" tvg-name="A&E"  group-title="Entertainment",A&E
