@@ -32,7 +32,7 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173924&e
 #EXTINF:-1, tvg-id="WSMV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WSMV_Logo.webp" tvg-name="NBC 4 Nashville TN"  group-title="Nbc",NBC 4 Nashville TN
 https://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8
 #EXTINF:-1, tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WNBC_2023.svg.png" tvg-name="NBC 4 New York NY"  group-title="Nbc",NBC 4 New York NY
-https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
+https://tvpass.org/live/WNBCDT1/hd
 #EXTINF:-1, tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WNBC_2023.svg.png" tvg-name="NBC 4 New York NY"  group-title="Nbc",NBC 4 New York NY
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=174038&extension=ts&play_token=eC1CCKlUzm
 #EXTINF:-1, tvg-id="WCAU-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WCAU_2023.svg.png" tvg-name="NBC 10 Philadelphia PA"  group-title="Nbc",NBC 10 Philadelphia PA
@@ -56,7 +56,7 @@ https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 #EXTINF:-1, tvg-id="Grit.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/GRIT_TV_Logo.png" tvg-name="GritTv 41.2 Kansas City MO"  group-title="Local Entertainment",GritTv 41.2 Kansas City MO
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1, tvg-id="Laff.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/LAFF_logo.png" tvg-name="LaffTv 41.3 Kansas City MO"  group-title="Local Entertainment",LaffTv 41.3 Kansas City MO
-https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+https://dvrfl04.tulix.tv/teleup-laff/mpegts.m3u8
 #EXTINF:-1, tvg-id="KPXE-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Ion_logo.png" tvg-name="ION 50.1 Kansas City MO"  group-title="Local Entertainment",ION 50.1 Kansas City MO
 https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 #EXTINF:-1, tvg-id="A.and.E.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/AE_Network_logo.png" tvg-name="A&E"  group-title="Entertainment",A&E
@@ -126,11 +126,7 @@ http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1, tvg-id="Logo.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Logo_TV_2015.png" tvg-name="Logo"  group-title="Entertainment",Logo
 https://tvpass.org/live/LogoEast/hd
 #EXTINF:-1, tvg-id="Me.TV.Network.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/MeTV_Logo.png" tvg-name="MeTV"  group-title="Entertainment",MeTV
-https://fl1.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1, tvg-id="Me.TV.Network.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/MeTV_Logo.png" tvg-name="MeTV"  group-title="Entertainment",MeTV Kansas City MO
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-1, tvg-id="Me.TV.Network.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/MeTV_Logo.png" tvg-name="MeTV"  group-title="Entertainment",MeTV Columbia MO
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+http://104.255.88.155/metv/index.m3u8
 #EXTINF:-1, tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/MTV-2021.png" tvg-name="MTV"  group-title="Entertainment",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1, tvg-id="MTV.Classic.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/MTV_Classic_US.png" tvg-name="MTV Classic"  group-title="Entertainment",MTV Classic
