@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KOMO-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WABC_TV_New_2021.svg.png" tvg-name="Abc 4 Seattle WA" group-title="Abc",Abc 4 Seattle WA
+http://lunar.pm:8080/leslie/snook/64460
 #EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WABC_TV_New_2021.svg.png" tvg-name="Abc 7 Chicago IL" group-title="Abc",Abc 7 Chicago IL
 https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 #EXTINF:-1, tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ABC_17_KMIZ_logo_2022.png" tvg-name="ABC Columbia MO"  group-title="Abc",Abc Columbia MO
@@ -195,6 +197,8 @@ https://tvpass.org/live/VICETV/hd
 http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="WE.tv.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Wetv-july-2024-logo.png" tvg-name="WE"  group-title="Entertainment",WE
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1, tvg-id="KCPQ-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Fts-atlanta-a.svg.png" tvg-name="FOX Seattle WA"  group-title="Fox",FOX Seattle WA
+http://lunar.pm:8080/leslie/snook/64666
 #EXTINF:-1, tvg-id="WAGA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Fts-atlanta-a.svg.png" tvg-name="FOX East"  group-title="Fox",FOX East
 https://fl1.moveonjoy.com/FOX/index.m3u8
 #EXTINF:-1, tvg-id="WAGA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Fts-atlanta-a.svg.png" tvg-name="FOX 5 Atlanta GA"  group-title="Fox",FOX 5 Atlanta GA
@@ -213,6 +217,8 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173728&e
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 #EXTINF:-1, tvg-id="WXXV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WXXV_2011_Logo.png" tvg-name="FOX 25 Gulfsport MS"  group-title="Fox",FOX 25 Gulfsport MS
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
+#EXTINF:-1 tvg-id="KIRO-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CBS_Chicago_logo.svg.png" tvg-name="CBS Seattle WA" group-title="Cbs",CBS Seattle WA
+http://lunar.pm:8080/leslie/snook/64533
 #EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/CBS_Chicago_logo.svg.png" group-title="Cbs",CBS Chicago IL
 https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 #EXTINF:-1, tvg-id="KRCG-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KRCG_2016.png" tvg-name="CBS Columbia MO" group-title="Cbs",CBS Columbia MO
@@ -235,6 +241,8 @@ https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8
 #EXTINF:-1, tvg-id="WPEC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WPEC_CBS12_solid_calls.svg.png" tvg-name="CBS 12 West Palm Beach FL"  group-title="Cbs",CBS 12 West Palm Beach FL
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1, tvg-id="KSTW-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WKCF_logo_2024.svg.png" tvg-name="CW 11 Seattle WA"  group-title="CW",CW 11 Seattle WA
+http://lunar.pm:8080/leslie/snook/64588
 #EXTINF:-1, tvg-id="WKCF-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/WKCF_logo_2024.svg.png" tvg-name="CW 18 Clemont FL"  group-title="CW",CW 18 Clemont FL
 https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
 #EXTINF:-1, tvg-id="CW.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KOMU-DT3_2024.png" tvg-name="CW Columbia MO" group-title="CW",CW Columbia MO
@@ -253,6 +261,8 @@ https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1, tvg-id="KSHB-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KSHB-TV_logo.png" tvg-name="NBC 41.1 Kansas City MO"  group-title="Nbc",NBC 41.1 Kansas City MO
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1, tvg-id="KING-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KSHB-TV_logo.png" tvg-name="NBC Seattle WA" group-title="Nbc",NBC Seattle WA
+http://lunar.pm:8080/leslie/snook/64782
 #EXTINF:-1, tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Bein_Sports_Logo.svg.png" tvg-name="beIN Sports US"  group-title="Sports",beIN Sports US
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1, tvg-id="ESPN.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/ESPN_wordmark.png" tvg-name="ESPN"  group-title="Sports",ESPN
