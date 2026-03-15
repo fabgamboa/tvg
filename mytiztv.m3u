@@ -121,6 +121,8 @@ https://fl1.moveonjoy.com/history_channel/index.m3u8
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1, tvg-id="INSP.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/INSP_logo_2022.png" tvg-name="INSP"  group-title="Entertainment",INSP
 https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1, tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/KTLA.png" tvg-name="KTLA 5"  group-title="Entertainment",KTLA 5
+https://dvrfl04.tulix.tv/teleup-ktla/mpegts
 #EXTINF:-1, tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Logo_Lifetime_2020.png" tvg-name="Lifetime"  group-title="Entertainment",Lifetime
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1, tvg-id="Logo.us2" tvg-logo="https://raw.githubusercontent.com/fabgamboa/tvg/refs/heads/main/logos/Logo_TV_2015.png" tvg-name="Logo"  group-title="Entertainment",Logo
